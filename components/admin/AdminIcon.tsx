@@ -1,0 +1,4 @@
+export default function AdminIcon({name}:{name:string}){
+ const paths:Record<string,string>={identity:'M12 3 3 8l9 5 9-5-9-5ZM3 12l9 5 9-5M3 16l9 5 9-5',home:'m3 10 9-7 9 7M5 9v12h14V9M9 21v-8h6v8',about:'M12 8v.1M12 12v5M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0',services:'M4 4h6v6H4zM14 4h6v6h-6zM4 14h6v6H4zM14 14h6v6h-6z',portfolio:'M8 7V4h8v3M3 7h18v14H3zM3 12h18M10 12v3h4v-3',contact:'M3 5h18v14H3zM3 5l9 8 9-8',media:'M3 3h18v18H3zM3 17l6-6 4 4 3-3 5 5M16 7h.01',history:'M3 4v6h6M3 10a9 9 0 1 1 2 8M12 7v5l3 2',account:'M6 10V7a6 6 0 0 1 12 0v3M4 10h16v12H4zM12 14v4',footer:'M3 5h18M3 12h18M3 19h18',meta:'M10 3a7 7 0 1 1 0 14 7 7 0 0 1 0-14M15 15l6 6',legal:'M5 3h10l4 4v14H5zM9 11h6M9 15h6'};
+ return <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d={paths[name]||'M4 6h16M4 12h16M4 18h10'}/></svg>
+}

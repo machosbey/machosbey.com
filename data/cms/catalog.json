@@ -1,0 +1,2914 @@
+[
+  {
+    "key": "AR.meta.siteTitle",
+    "value": "ماخوس بيه — برمجة وحلول رقمية",
+    "group": "meta",
+    "locale": "AR",
+    "kind": "text",
+    "label": "عنوان الموقع في محركات البحث"
+  },
+  {
+    "key": "AR.meta.siteDescription",
+    "value": "ماخوس بيه شركة تكنولوجية متخصصة في البرمجة وتطوير مواقع الويب والتطبيقات والحلول الرقمية والذكاء الاصطناعي.",
+    "group": "meta",
+    "locale": "AR",
+    "kind": "text",
+    "label": "وصف الموقع في محركات البحث"
+  },
+  {
+    "key": "AR.common.mainNavigation",
+    "value": "التنقل الرئيسي",
+    "group": "common",
+    "locale": "AR",
+    "kind": "text",
+    "label": "التنقل الرئيسي"
+  },
+  {
+    "key": "AR.common.languages",
+    "value": "اللغات",
+    "group": "common",
+    "locale": "AR",
+    "kind": "text",
+    "label": "اللغات"
+  },
+  {
+    "key": "AR.common.menu",
+    "value": "القائمة",
+    "group": "common",
+    "locale": "AR",
+    "kind": "text",
+    "label": "القائمة"
+  },
+  {
+    "key": "AR.common.navigation",
+    "value": "التنقل",
+    "group": "common",
+    "locale": "AR",
+    "kind": "text",
+    "label": "التنقل"
+  },
+  {
+    "key": "AR.common.social",
+    "value": "تابعنا",
+    "group": "common",
+    "locale": "AR",
+    "kind": "text",
+    "label": "تابعنا"
+  },
+  {
+    "key": "AR.common.legal",
+    "value": "قانوني",
+    "group": "common",
+    "locale": "AR",
+    "kind": "text",
+    "label": "قانوني"
+  },
+  {
+    "key": "AR.common.region",
+    "value": "الشرق الأوسط · أوروبا",
+    "group": "common",
+    "locale": "AR",
+    "kind": "text",
+    "label": "الشرق الأوسط · أوروبا"
+  },
+  {
+    "key": "AR.common.sending",
+    "value": "جارٍ الإرسال...",
+    "group": "common",
+    "locale": "AR",
+    "kind": "text",
+    "label": "جارٍ الإرسال..."
+  },
+  {
+    "key": "AR.common.success",
+    "value": "تم استلام طلبك بنجاح.",
+    "group": "common",
+    "locale": "AR",
+    "kind": "text",
+    "label": "تم استلام طلبك بنجاح."
+  },
+  {
+    "key": "AR.common.error",
+    "value": "تعذر إرسال الطلب الآن. حاول مرة أخرى.",
+    "group": "common",
+    "locale": "AR",
+    "kind": "text",
+    "label": "تعذر إرسال الطلب الآن. حاول مرة أخرى."
+  },
+  {
+    "key": "AR.common.notConfigured",
+    "value": "الإرسال غير متاح حاليًا. تواصل معنا عبر البريد الإلكتروني.",
+    "group": "common",
+    "locale": "AR",
+    "kind": "text",
+    "label": "الإرسال غير متاح حاليًا. تواصل معنا عبر البريد الإلكتروني."
+  },
+  {
+    "key": "AR.nav.home",
+    "value": "الرئيسية",
+    "group": "nav",
+    "locale": "AR",
+    "kind": "text",
+    "label": "الرئيسية"
+  },
+  {
+    "key": "AR.nav.about",
+    "value": "من نحن",
+    "group": "nav",
+    "locale": "AR",
+    "kind": "text",
+    "label": "من نحن"
+  },
+  {
+    "key": "AR.nav.contact",
+    "value": "التواصل",
+    "group": "nav",
+    "locale": "AR",
+    "kind": "text",
+    "label": "التواصل"
+  },
+  {
+    "key": "AR.nav.cta",
+    "value": "ابدأ مشروعك",
+    "group": "nav",
+    "locale": "AR",
+    "kind": "text",
+    "label": "ابدأ مشروعك"
+  },
+  {
+    "key": "AR.nav.portfolio",
+    "value": "أعمال مميزة",
+    "group": "nav",
+    "locale": "AR",
+    "kind": "text",
+    "label": "أعمال مميزة"
+  },
+  {
+    "key": "AR.nav.subscriptions",
+    "value": "اشتراكات",
+    "group": "nav",
+    "locale": "AR",
+    "kind": "text",
+    "label": "اشتراكات"
+  },
+  {
+    "key": "AR.hero.description",
+    "value": "مواقع، تطبيقات وحلول ذكية. نحوّل أفكارك إلى تجارب رقمية متكاملة.",
+    "group": "hero",
+    "locale": "AR",
+    "kind": "text",
+    "label": "مواقع، تطبيقات وحلول ذكية. نحوّل أفكارك إلى تجارب رقمية متكاملة."
+  },
+  {
+    "key": "AR.services.items.0.title",
+    "value": "تطوير مواقع الويب",
+    "group": "services",
+    "locale": "AR",
+    "kind": "text",
+    "label": "تطوير مواقع الويب"
+  },
+  {
+    "key": "AR.services.items.0.description",
+    "value": "مواقع سريعة ومتجاوبة ومتاجر إلكترونية بتجربة واضحة تناسب نشاطك.",
+    "group": "services",
+    "locale": "AR",
+    "kind": "text",
+    "label": "مواقع سريعة ومتجاوبة ومتاجر إلكترونية بتجربة واضحة تناسب نشاطك."
+  },
+  {
+    "key": "AR.services.items.1.title",
+    "value": "تطوير التطبيقات",
+    "group": "services",
+    "locale": "AR",
+    "kind": "text",
+    "label": "تطوير التطبيقات"
+  },
+  {
+    "key": "AR.services.items.1.description",
+    "value": "تطبيقات عملية تضع خدماتك بين أيدي عملائك على مختلف الأجهزة.",
+    "group": "services",
+    "locale": "AR",
+    "kind": "text",
+    "label": "تطبيقات عملية تضع خدماتك بين أيدي عملائك على مختلف الأجهزة."
+  },
+  {
+    "key": "AR.services.items.2.title",
+    "value": "الحلول البرمجية",
+    "group": "services",
+    "locale": "AR",
+    "kind": "text",
+    "label": "الحلول البرمجية"
+  },
+  {
+    "key": "AR.services.items.2.description",
+    "value": "أنظمة مخصصة وتكاملات وأتمتة تسهّل إدارة أعمالك.",
+    "group": "services",
+    "locale": "AR",
+    "kind": "text",
+    "label": "أنظمة مخصصة وتكاملات وأتمتة تسهّل إدارة أعمالك."
+  },
+  {
+    "key": "AR.services.items.3.title",
+    "value": "الذكاء الاصطناعي",
+    "group": "services",
+    "locale": "AR",
+    "kind": "text",
+    "label": "الذكاء الاصطناعي"
+  },
+  {
+    "key": "AR.services.items.3.description",
+    "value": "حلول ذكية تساعدك على أتمتة المهام والاستفادة من بياناتك.",
+    "group": "services",
+    "locale": "AR",
+    "kind": "text",
+    "label": "حلول ذكية تساعدك على أتمتة المهام والاستفادة من بياناتك."
+  },
+  {
+    "key": "AR.services.items.4.title",
+    "value": "خدمات الدومين",
+    "group": "services",
+    "locale": "AR",
+    "kind": "text",
+    "label": "خدمات الدومين"
+  },
+  {
+    "key": "AR.services.items.4.description",
+    "value": "مساعدتك في اختيار الدومين وتسجيله وربطه بموقعك وإدارة إعداداته.",
+    "group": "services",
+    "locale": "AR",
+    "kind": "text",
+    "label": "مساعدتك في اختيار الدومين وتسجيله وربطه بموقعك وإدارة إعداداته."
+  },
+  {
+    "key": "AR.cta.title",
+    "value": "جاهز لتحويل فكرتك إلى مشروع حقيقي؟",
+    "group": "cta",
+    "locale": "AR",
+    "kind": "text",
+    "label": "جاهز لتحويل فكرتك إلى مشروع حقيقي؟"
+  },
+  {
+    "key": "AR.footer.tagline",
+    "value": "ماخوس بيه شركة تكنولوجية متخصصة في البرمجة وتطوير مواقع الويب والتطبيقات والحلول الرقمية والذكاء الاصطناعي.",
+    "group": "footer",
+    "locale": "AR",
+    "kind": "text",
+    "label": "ماخوس بيه شركة تكنولوجية متخصصة في البرمجة وتطوير مواقع الويب والتطبيقات والحلول الرقمية و"
+  },
+  {
+    "key": "AR.footer.privacy",
+    "value": "سياسة الخصوصية",
+    "group": "footer",
+    "locale": "AR",
+    "kind": "text",
+    "label": "سياسة الخصوصية"
+  },
+  {
+    "key": "AR.footer.terms",
+    "value": "الشروط والأحكام",
+    "group": "footer",
+    "locale": "AR",
+    "kind": "text",
+    "label": "الشروط والأحكام"
+  },
+  {
+    "key": "AR.footer.rights",
+    "value": "جميع الحقوق محفوظة",
+    "group": "footer",
+    "locale": "AR",
+    "kind": "text",
+    "label": "جميع الحقوق محفوظة"
+  },
+  {
+    "key": "AR.aboutPage.label",
+    "value": "من نحن",
+    "group": "aboutPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "من نحن"
+  },
+  {
+    "key": "AR.aboutPage.heroTitle",
+    "value": "تقنية تفهم طموحك\nوحلول تنمو معك",
+    "group": "aboutPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "تقنية تفهم طموحك\nوحلول تنمو معك"
+  },
+  {
+    "key": "AR.aboutPage.heroText",
+    "value": "فريق متخصص ذو خبرة في التكنولوجيا والذكاء الاصطناعي، نقدّم خدماتنا في أوروبا والشرق الأوسط ونطمح للوصول إلى العالم.",
+    "group": "aboutPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "فريق متخصص ذو خبرة في التكنولوجيا والذكاء الاصطناعي، نقدّم خدماتنا في أوروبا والشرق الأوسط"
+  },
+  {
+    "key": "AR.aboutPage.secondary",
+    "value": "تحدث إلى خبرائنا",
+    "group": "aboutPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "تحدث إلى خبرائنا"
+  },
+  {
+    "key": "AR.aboutPage.visionMissionTitle",
+    "value": "رؤيتنا، مهمتنا وقيمنا",
+    "group": "aboutPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "رؤيتنا، مهمتنا وقيمنا"
+  },
+  {
+    "key": "AR.aboutPage.cards.0.title",
+    "value": "رؤيتنا",
+    "group": "aboutPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "رؤيتنا"
+  },
+  {
+    "key": "AR.aboutPage.cards.0.text",
+    "value": "أن نصبح شريكًا تقنيًا موثوقًا للأعمال في أوروبا والشرق الأوسط والعالم.",
+    "group": "aboutPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "أن نصبح شريكًا تقنيًا موثوقًا للأعمال في أوروبا والشرق الأوسط والعالم."
+  },
+  {
+    "key": "AR.aboutPage.cards.1.title",
+    "value": "مهمتنا",
+    "group": "aboutPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "مهمتنا"
+  },
+  {
+    "key": "AR.aboutPage.cards.1.text",
+    "value": "تحويل الأفكار إلى مواقع وتطبيقات وحلول ذكية تدعم نمو الأعمال.",
+    "group": "aboutPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "تحويل الأفكار إلى مواقع وتطبيقات وحلول ذكية تدعم نمو الأعمال."
+  },
+  {
+    "key": "AR.aboutPage.cards.2.title",
+    "value": "قيمنا",
+    "group": "aboutPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "قيمنا"
+  },
+  {
+    "key": "AR.aboutPage.cards.2.text",
+    "value": "الالتزام، الجودة، الشفافية، الابتكار، وبناء علاقات طويلة الأمد مع العملاء.",
+    "group": "aboutPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "الالتزام، الجودة، الشفافية، الابتكار، وبناء علاقات طويلة الأمد مع العملاء."
+  },
+  {
+    "key": "AR.aboutPage.consultingLabel",
+    "value": "أسلوب عملنا",
+    "group": "aboutPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "أسلوب عملنا"
+  },
+  {
+    "key": "AR.aboutPage.consultingText",
+    "value": "نحدد نطاق العمل بوضوح، ونشاركك مراحل التنفيذ، ونختبر الأداء والتجاوب قبل التسليم.",
+    "group": "aboutPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "نحدد نطاق العمل بوضوح، ونشاركك مراحل التنفيذ، ونختبر الأداء والتجاوب قبل التسليم."
+  },
+  {
+    "key": "AR.aboutPage.quote",
+    "value": "نفهم احتياجك، نبني الحل، ونرافقك حتى الإطلاق.",
+    "group": "aboutPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "نفهم احتياجك، نبني الحل، ونرافقك حتى الإطلاق."
+  },
+  {
+    "key": "AR.aboutPage.principlesTitle",
+    "value": "مبادئنا",
+    "group": "aboutPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "مبادئنا"
+  },
+  {
+    "key": "AR.aboutPage.principles.0",
+    "value": "الالتزام",
+    "group": "aboutPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "الالتزام"
+  },
+  {
+    "key": "AR.aboutPage.principles.1",
+    "value": "الجودة",
+    "group": "aboutPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "الجودة"
+  },
+  {
+    "key": "AR.aboutPage.principles.2",
+    "value": "الشفافية",
+    "group": "aboutPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "الشفافية"
+  },
+  {
+    "key": "AR.aboutPage.principles.3",
+    "value": "الابتكار",
+    "group": "aboutPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "الابتكار"
+  },
+  {
+    "key": "AR.aboutPage.ctaTitle",
+    "value": "هل أنت مستعد للانطلاق؟",
+    "group": "aboutPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "هل أنت مستعد للانطلاق؟"
+  },
+  {
+    "key": "AR.aboutPage.ctaButton",
+    "value": "تحدث إلى خبرائنا اليوم",
+    "group": "aboutPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "تحدث إلى خبرائنا اليوم"
+  },
+  {
+    "key": "AR.contactPage.label",
+    "value": "تواصل معنا",
+    "group": "contactPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "تواصل معنا"
+  },
+  {
+    "key": "AR.contactPage.heroTitle",
+    "value": "نحن نتكفّل بكل شيء، ليس عليك سوى ضغطة زر.",
+    "group": "contactPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "نحن نتكفّل بكل شيء، ليس عليك سوى ضغطة زر."
+  },
+  {
+    "key": "AR.contactPage.heroText",
+    "value": "تواصل مع ماخوس بيه، ولنبدأ بمناقشة مشروعك.",
+    "group": "contactPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "تواصل مع ماخوس بيه، ولنبدأ بمناقشة مشروعك."
+  },
+  {
+    "key": "AR.contactPage.detailsTitle",
+    "value": "بيانات التواصل",
+    "group": "contactPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "بيانات التواصل"
+  },
+  {
+    "key": "AR.contactPage.email",
+    "value": "البريد الإلكتروني",
+    "group": "contactPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "البريد الإلكتروني"
+  },
+  {
+    "key": "AR.contactPage.phone",
+    "value": "الهاتف",
+    "group": "contactPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "الهاتف"
+  },
+  {
+    "key": "AR.contactPage.location",
+    "value": "الموقع",
+    "group": "contactPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "الموقع"
+  },
+  {
+    "key": "AR.contactPage.formTitle",
+    "value": "نموذج التواصل",
+    "group": "contactPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "نموذج التواصل"
+  },
+  {
+    "key": "AR.contactPage.formText",
+    "value": "املأ النموذج أدناه وسنتواصل معك في أقرب وقت.",
+    "group": "contactPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "املأ النموذج أدناه وسنتواصل معك في أقرب وقت."
+  },
+  {
+    "key": "AR.contactPage.fields.name",
+    "value": "اسم العميل",
+    "group": "contactPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "اسم العميل"
+  },
+  {
+    "key": "AR.contactPage.fields.email",
+    "value": "البريد الإلكتروني",
+    "group": "contactPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "البريد الإلكتروني"
+  },
+  {
+    "key": "AR.contactPage.fields.service",
+    "value": "نوع الخدمة",
+    "group": "contactPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "نوع الخدمة"
+  },
+  {
+    "key": "AR.contactPage.fields.details",
+    "value": "تفاصيل الطلب",
+    "group": "contactPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "تفاصيل الطلب"
+  },
+  {
+    "key": "AR.contactPage.fields.submit",
+    "value": "أرسل طلبك الآن",
+    "group": "contactPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "أرسل طلبك الآن"
+  },
+  {
+    "key": "AR.legalPage.privacyTitle",
+    "value": "سياسة الخصوصية",
+    "group": "legalPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "سياسة الخصوصية"
+  },
+  {
+    "key": "AR.legalPage.termsTitle",
+    "value": "الشروط والأحكام",
+    "group": "legalPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "الشروط والأحكام"
+  },
+  {
+    "key": "AR.legalPage.notice",
+    "value": "ملف المحتوى يحدد رابط هذه الصفحة فقط ولا يتضمن نصًا قانونيًا معتمدًا. يجب إضافة النص القانوني النهائي قبل الإطلاق.",
+    "group": "legalPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "ملف المحتوى يحدد رابط هذه الصفحة فقط ولا يتضمن نصًا قانونيًا معتمدًا. يجب إضافة النص القان"
+  },
+  {
+    "key": "AR.brand",
+    "value": "ماخوس بيه",
+    "group": "brand",
+    "locale": "AR",
+    "kind": "text",
+    "label": "اسم الموقع بالعربية"
+  },
+  {
+    "key": "EN.common.mainNavigation",
+    "value": "Main navigation",
+    "group": "common",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Main navigation"
+  },
+  {
+    "key": "EN.common.languages",
+    "value": "Languages",
+    "group": "common",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Languages"
+  },
+  {
+    "key": "EN.common.menu",
+    "value": "Menu",
+    "group": "common",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Menu"
+  },
+  {
+    "key": "EN.common.navigation",
+    "value": "Navigation",
+    "group": "common",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Navigation"
+  },
+  {
+    "key": "EN.common.social",
+    "value": "Social",
+    "group": "common",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Social"
+  },
+  {
+    "key": "EN.common.legal",
+    "value": "Legal",
+    "group": "common",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Legal"
+  },
+  {
+    "key": "EN.common.region",
+    "value": "Middle East · Europe",
+    "group": "common",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Middle East · Europe"
+  },
+  {
+    "key": "EN.common.sending",
+    "value": "Sending...",
+    "group": "common",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Sending..."
+  },
+  {
+    "key": "EN.common.success",
+    "value": "Your request has been received successfully.",
+    "group": "common",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Your request has been received successfully."
+  },
+  {
+    "key": "EN.common.error",
+    "value": "We could not send your request. Please try again.",
+    "group": "common",
+    "locale": "EN",
+    "kind": "text",
+    "label": "We could not send your request. Please try again."
+  },
+  {
+    "key": "EN.common.notConfigured",
+    "value": "Submissions are currently unavailable. Please contact us by email.",
+    "group": "common",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Submissions are currently unavailable. Please contact us by email."
+  },
+  {
+    "key": "EN.nav.home",
+    "value": "Home",
+    "group": "nav",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Home"
+  },
+  {
+    "key": "EN.nav.about",
+    "value": "About Us",
+    "group": "nav",
+    "locale": "EN",
+    "kind": "text",
+    "label": "About Us"
+  },
+  {
+    "key": "EN.nav.contact",
+    "value": "Contact",
+    "group": "nav",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Contact"
+  },
+  {
+    "key": "EN.nav.cta",
+    "value": "Start Your Project",
+    "group": "nav",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Start Your Project"
+  },
+  {
+    "key": "EN.nav.portfolio",
+    "value": "Featured Work",
+    "group": "nav",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Featured Work"
+  },
+  {
+    "key": "EN.nav.subscriptions",
+    "value": "Subscriptions",
+    "group": "nav",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Subscriptions"
+  },
+  {
+    "key": "EN.hero.description",
+    "value": "Websites, applications and intelligent solutions. Turning your ideas into connected digital experiences.",
+    "group": "hero",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Websites, applications and intelligent solutions. Turning your ideas into connected digita"
+  },
+  {
+    "key": "EN.services.items.0.title",
+    "value": "Web Development",
+    "group": "services",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Web Development"
+  },
+  {
+    "key": "EN.services.items.0.description",
+    "value": "Fast, responsive websites and online stores designed around your business.",
+    "group": "services",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Fast, responsive websites and online stores designed around your business."
+  },
+  {
+    "key": "EN.services.items.1.title",
+    "value": "App Development",
+    "group": "services",
+    "locale": "EN",
+    "kind": "text",
+    "label": "App Development"
+  },
+  {
+    "key": "EN.services.items.1.description",
+    "value": "Practical applications that bring your services to customers across devices.",
+    "group": "services",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Practical applications that bring your services to customers across devices."
+  },
+  {
+    "key": "EN.services.items.2.title",
+    "value": "Software Solutions",
+    "group": "services",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Software Solutions"
+  },
+  {
+    "key": "EN.services.items.2.description",
+    "value": "Custom systems, integrations and automation to simplify your operations.",
+    "group": "services",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Custom systems, integrations and automation to simplify your operations."
+  },
+  {
+    "key": "EN.services.items.3.title",
+    "value": "Artificial Intelligence",
+    "group": "services",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Artificial Intelligence"
+  },
+  {
+    "key": "EN.services.items.3.description",
+    "value": "Intelligent solutions to automate tasks and make better use of your data.",
+    "group": "services",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Intelligent solutions to automate tasks and make better use of your data."
+  },
+  {
+    "key": "EN.services.items.4.title",
+    "value": "Domain Services",
+    "group": "services",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Domain Services"
+  },
+  {
+    "key": "EN.services.items.4.description",
+    "value": "Support choosing, registering and connecting your domain and managing its settings.",
+    "group": "services",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Support choosing, registering and connecting your domain and managing its settings."
+  },
+  {
+    "key": "EN.cta.title",
+    "value": "Ready to turn your idea into a real project?",
+    "group": "cta",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Ready to turn your idea into a real project?"
+  },
+  {
+    "key": "EN.footer.tagline",
+    "value": "Machos Bey is a technology company specialising in software, websites, applications, digital solutions and artificial intelligence.",
+    "group": "footer",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Machos Bey is a technology company specialising in software, websites, applications, digit"
+  },
+  {
+    "key": "EN.footer.privacy",
+    "value": "Privacy Policy",
+    "group": "footer",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Privacy Policy"
+  },
+  {
+    "key": "EN.footer.terms",
+    "value": "Terms & Conditions",
+    "group": "footer",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Terms & Conditions"
+  },
+  {
+    "key": "EN.footer.rights",
+    "value": "All rights reserved",
+    "group": "footer",
+    "locale": "EN",
+    "kind": "text",
+    "label": "All rights reserved"
+  },
+  {
+    "key": "EN.aboutPage.label",
+    "value": "About Us",
+    "group": "aboutPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "About Us"
+  },
+  {
+    "key": "EN.aboutPage.heroTitle",
+    "value": "Technology that understands your ambition\nSolutions that grow with you",
+    "group": "aboutPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Technology that understands your ambition\nSolutions that grow with you"
+  },
+  {
+    "key": "EN.aboutPage.heroText",
+    "value": "A specialised team with experience in technology and artificial intelligence, serving Europe and the Middle East with the ambition to reach the world.",
+    "group": "aboutPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "A specialised team with experience in technology and artificial intelligence, serving Euro"
+  },
+  {
+    "key": "EN.aboutPage.secondary",
+    "value": "Talk to Our Experts",
+    "group": "aboutPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Talk to Our Experts"
+  },
+  {
+    "key": "EN.aboutPage.visionMissionTitle",
+    "value": "Vision, Mission & Values",
+    "group": "aboutPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Vision, Mission & Values"
+  },
+  {
+    "key": "EN.aboutPage.cards.0.title",
+    "value": "Our Vision",
+    "group": "aboutPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Our Vision"
+  },
+  {
+    "key": "EN.aboutPage.cards.0.text",
+    "value": "To become a trusted technology partner for businesses in Europe, the Middle East and worldwide.",
+    "group": "aboutPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "To become a trusted technology partner for businesses in Europe, the Middle East and world"
+  },
+  {
+    "key": "EN.aboutPage.cards.1.title",
+    "value": "Our Mission",
+    "group": "aboutPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Our Mission"
+  },
+  {
+    "key": "EN.aboutPage.cards.1.text",
+    "value": "Turn ideas into websites, applications and intelligent solutions that support business growth.",
+    "group": "aboutPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Turn ideas into websites, applications and intelligent solutions that support business gro"
+  },
+  {
+    "key": "EN.aboutPage.cards.2.title",
+    "value": "Our Values",
+    "group": "aboutPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Our Values"
+  },
+  {
+    "key": "EN.aboutPage.cards.2.text",
+    "value": "Commitment, quality, transparency, innovation and long-term client relationships.",
+    "group": "aboutPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Commitment, quality, transparency, innovation and long-term client relationships."
+  },
+  {
+    "key": "EN.aboutPage.consultingLabel",
+    "value": "How We Work",
+    "group": "aboutPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "How We Work"
+  },
+  {
+    "key": "EN.aboutPage.consultingText",
+    "value": "We agree a clear scope, share delivery milestones and test performance and responsiveness before handover.",
+    "group": "aboutPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "We agree a clear scope, share delivery milestones and test performance and responsiveness "
+  },
+  {
+    "key": "EN.aboutPage.quote",
+    "value": "Understand the need. Build the solution. Support the launch.",
+    "group": "aboutPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Understand the need. Build the solution. Support the launch."
+  },
+  {
+    "key": "EN.aboutPage.principlesTitle",
+    "value": "Our Principles",
+    "group": "aboutPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Our Principles"
+  },
+  {
+    "key": "EN.aboutPage.principles.0",
+    "value": "Commitment",
+    "group": "aboutPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Commitment"
+  },
+  {
+    "key": "EN.aboutPage.principles.1",
+    "value": "Quality",
+    "group": "aboutPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Quality"
+  },
+  {
+    "key": "EN.aboutPage.principles.2",
+    "value": "Transparency",
+    "group": "aboutPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Transparency"
+  },
+  {
+    "key": "EN.aboutPage.principles.3",
+    "value": "Innovation",
+    "group": "aboutPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Innovation"
+  },
+  {
+    "key": "EN.aboutPage.ctaTitle",
+    "value": "Are you ready to launch?",
+    "group": "aboutPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Are you ready to launch?"
+  },
+  {
+    "key": "EN.aboutPage.ctaButton",
+    "value": "Talk to Our Experts Today",
+    "group": "aboutPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Talk to Our Experts Today"
+  },
+  {
+    "key": "EN.contactPage.label",
+    "value": "Contact",
+    "group": "contactPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Contact"
+  },
+  {
+    "key": "EN.contactPage.heroTitle",
+    "value": "We take care of everything. Your next step is just a click away.",
+    "group": "contactPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "We take care of everything. Your next step is just a click away."
+  },
+  {
+    "key": "EN.contactPage.heroText",
+    "value": "Contact Machos Bey and let’s discuss your project.",
+    "group": "contactPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Contact Machos Bey and let’s discuss your project."
+  },
+  {
+    "key": "EN.contactPage.detailsTitle",
+    "value": "Contact Details",
+    "group": "contactPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Contact Details"
+  },
+  {
+    "key": "EN.contactPage.email",
+    "value": "Email",
+    "group": "contactPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Email"
+  },
+  {
+    "key": "EN.contactPage.phone",
+    "value": "Phone",
+    "group": "contactPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Phone"
+  },
+  {
+    "key": "EN.contactPage.location",
+    "value": "Location",
+    "group": "contactPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Location"
+  },
+  {
+    "key": "EN.contactPage.formTitle",
+    "value": "Contact Form",
+    "group": "contactPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Contact Form"
+  },
+  {
+    "key": "EN.contactPage.formText",
+    "value": "Complete the form below and we will contact you as soon as possible.",
+    "group": "contactPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Complete the form below and we will contact you as soon as possible."
+  },
+  {
+    "key": "EN.contactPage.fields.name",
+    "value": "Client Name",
+    "group": "contactPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Client Name"
+  },
+  {
+    "key": "EN.contactPage.fields.email",
+    "value": "Email",
+    "group": "contactPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Email"
+  },
+  {
+    "key": "EN.contactPage.fields.service",
+    "value": "Service Type",
+    "group": "contactPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Service Type"
+  },
+  {
+    "key": "EN.contactPage.fields.details",
+    "value": "Request Details",
+    "group": "contactPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Request Details"
+  },
+  {
+    "key": "EN.contactPage.fields.submit",
+    "value": "Send Your Request",
+    "group": "contactPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Send Your Request"
+  },
+  {
+    "key": "EN.legalPage.privacyTitle",
+    "value": "Privacy Policy",
+    "group": "legalPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Privacy Policy"
+  },
+  {
+    "key": "EN.legalPage.termsTitle",
+    "value": "Terms & Conditions",
+    "group": "legalPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Terms & Conditions"
+  },
+  {
+    "key": "EN.legalPage.notice",
+    "value": "The content file specifies this page link but does not include approved legal text. Final legal content must be added before launch.",
+    "group": "legalPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "The content file specifies this page link but does not include approved legal text. Final "
+  },
+  {
+    "key": "EN.brand",
+    "value": "Machos Bey",
+    "group": "brand",
+    "locale": "EN",
+    "kind": "text",
+    "label": "اسم الموقع بالإنجليزية"
+  },
+  {
+    "key": "inline.AurosHomePage.AR.1",
+    "value": "نمنح أفكارك",
+    "group": "AurosHomePage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "نمنح أفكارك"
+  },
+  {
+    "key": "inline.AurosHomePage.AR.2",
+    "value": "حياة رقمية.",
+    "group": "AurosHomePage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "حياة رقمية."
+  },
+  {
+    "key": "inline.AurosHomePage.EN.3",
+    "value": "Bringing your ideas",
+    "group": "AurosHomePage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Bringing your ideas"
+  },
+  {
+    "key": "inline.AurosHomePage.EN.4",
+    "value": "to digital life.",
+    "group": "AurosHomePage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "to digital life."
+  },
+  {
+    "key": "inline.AurosHomePage.AR.7",
+    "value": "اكتشف ماخوس بيه",
+    "group": "AurosHomePage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "اكتشف ماخوس بيه"
+  },
+  {
+    "key": "inline.AurosHomePage.EN.8",
+    "value": "Discover Machos Bey",
+    "group": "AurosHomePage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Discover Machos Bey"
+  },
+  {
+    "key": "inline.AurosHomePage.AR.9",
+    "value": "نطوّر المستقبل الرقمي",
+    "group": "AurosHomePage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "نطوّر المستقبل الرقمي"
+  },
+  {
+    "key": "inline.AurosHomePage.EN.10",
+    "value": "We build digital futures",
+    "group": "AurosHomePage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "We build digital futures"
+  },
+  {
+    "key": "inline.AurosHomePage.AR.11",
+    "value": "نطوّر",
+    "group": "AurosHomePage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "نطوّر"
+  },
+  {
+    "key": "inline.AurosHomePage.EN.12",
+    "value": "We Build",
+    "group": "AurosHomePage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "We Build"
+  },
+  {
+    "key": "inline.AurosHomePage.AR.13",
+    "value": "المستقبل.",
+    "group": "AurosHomePage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "المستقبل."
+  },
+  {
+    "key": "inline.AurosHomePage.EN.14",
+    "value": "What’s Next.",
+    "group": "AurosHomePage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "What’s Next."
+  },
+  {
+    "key": "inline.AurosHomePage.AR.15",
+    "value": "ماخوس بيه. خبرة في البرمجة والذكاء الاصطناعي، ورؤية تتجاوز الحدود.",
+    "group": "AurosHomePage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "ماخوس بيه. خبرة في البرمجة والذكاء الاصطناعي، ورؤية تتجاوز الحدود."
+  },
+  {
+    "key": "inline.AurosHomePage.EN.16",
+    "value": "Machos Bey. Technology and AI expertise, with a vision that goes beyond borders.",
+    "group": "AurosHomePage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Machos Bey. Technology and AI expertise, with a vision that goes beyond borders."
+  },
+  {
+    "key": "inline.AurosHomePage.AR.17",
+    "value": "من أول محادثة إلى الإطلاق",
+    "group": "AurosHomePage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "من أول محادثة إلى الإطلاق"
+  },
+  {
+    "key": "inline.AurosHomePage.EN.18",
+    "value": "From conversation to launch",
+    "group": "AurosHomePage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "From conversation to launch"
+  },
+  {
+    "key": "inline.AurosHomePage.AR.19",
+    "value": "خطوة واضحة.\nفي كل مرحلة.",
+    "group": "AurosHomePage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "خطوة واضحة.\nفي كل مرحلة."
+  },
+  {
+    "key": "inline.AurosHomePage.EN.20",
+    "value": "A clear next step.\nAt every stage.",
+    "group": "AurosHomePage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "A clear next step.\nAt every stage."
+  },
+  {
+    "key": "inline.AurosHomePage.AR.21",
+    "value": "نفهم ما تحتاجه",
+    "group": "AurosHomePage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "نفهم ما تحتاجه"
+  },
+  {
+    "key": "inline.AurosHomePage.AR.22",
+    "value": "نبدأ بهدف المشروع، والمستخدمين، وما يحتاجه نشاطك فعلاً.",
+    "group": "AurosHomePage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "نبدأ بهدف المشروع، والمستخدمين، وما يحتاجه نشاطك فعلاً."
+  },
+  {
+    "key": "inline.AurosHomePage.AR.23",
+    "value": "نصمّم ونطوّر",
+    "group": "AurosHomePage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "نصمّم ونطوّر"
+  },
+  {
+    "key": "inline.AurosHomePage.AR.24",
+    "value": "نحوّل المتطلبات إلى تجربة واضحة، ثم نبني الوظائف المتفق عليها.",
+    "group": "AurosHomePage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "نحوّل المتطلبات إلى تجربة واضحة، ثم نبني الوظائف المتفق عليها."
+  },
+  {
+    "key": "inline.AurosHomePage.AR.25",
+    "value": "نراجع ونسلّم",
+    "group": "AurosHomePage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "نراجع ونسلّم"
+  },
+  {
+    "key": "inline.AurosHomePage.AR.26",
+    "value": "نراجع الاستخدام والتجاوب، ونوضّح خطوات تشغيل المشروع.",
+    "group": "AurosHomePage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "نراجع الاستخدام والتجاوب، ونوضّح خطوات تشغيل المشروع."
+  },
+  {
+    "key": "inline.AurosHomePage.EN.27",
+    "value": "Start with your goals, your users, and what your business actually needs.",
+    "group": "AurosHomePage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Start with your goals, your users, and what your business actually needs."
+  },
+  {
+    "key": "inline.AurosHomePage.EN.28",
+    "value": "Design & build",
+    "group": "AurosHomePage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Design & build"
+  },
+  {
+    "key": "inline.AurosHomePage.EN.29",
+    "value": "Turn requirements into a clear experience and build the agreed functionality.",
+    "group": "AurosHomePage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Turn requirements into a clear experience and build the agreed functionality."
+  },
+  {
+    "key": "inline.AurosHomePage.EN.30",
+    "value": "Review & hand over",
+    "group": "AurosHomePage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Review & hand over"
+  },
+  {
+    "key": "inline.AurosHomePage.EN.31",
+    "value": "Review usability and responsiveness, then explain how to run your project.",
+    "group": "AurosHomePage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Review usability and responsiveness, then explain how to run your project."
+  },
+  {
+    "key": "inline.AurosHomePage.AR.32",
+    "value": "من نحن",
+    "group": "AurosHomePage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "من نحن"
+  },
+  {
+    "key": "inline.AurosHomePage.EN.33",
+    "value": "Beyond borders",
+    "group": "AurosHomePage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Beyond borders"
+  },
+  {
+    "key": "inline.AurosHomePage.AR.34",
+    "value": "خبرة محلية.",
+    "group": "AurosHomePage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "خبرة محلية."
+  },
+  {
+    "key": "inline.AurosHomePage.AR.35",
+    "value": "طموح عالمي.",
+    "group": "AurosHomePage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "طموح عالمي."
+  },
+  {
+    "key": "inline.AurosHomePage.EN.36",
+    "value": "Connected expertise.",
+    "group": "AurosHomePage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Connected expertise."
+  },
+  {
+    "key": "inline.AurosHomePage.EN.37",
+    "value": "Global ambition.",
+    "group": "AurosHomePage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Global ambition."
+  },
+  {
+    "key": "inline.AurosHomePage.AR.38",
+    "value": "فريق متخصص ذو خبرة في التكنولوجيا والذكاء الاصطناعي. نقدم خدماتنا في أوروبا والشرق الأوسط، ونتطلع إلى الوصول عالمياً.",
+    "group": "AurosHomePage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "فريق متخصص ذو خبرة في التكنولوجيا والذكاء الاصطناعي. نقدم خدماتنا في أوروبا والشرق الأوسط،"
+  },
+  {
+    "key": "inline.AurosHomePage.EN.39",
+    "value": "A specialist team with experience in technology and artificial intelligence. Serving Europe and the Middle East, with an ambition to reach the world.",
+    "group": "AurosHomePage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "A specialist team with experience in technology and artificial intelligence. Serving Europ"
+  },
+  {
+    "key": "media.AurosHomePage.40",
+    "value": "/images/reach-world.svg",
+    "group": "AurosHomePage",
+    "locale": "shared",
+    "kind": "image",
+    "label": "/images/reach-world.svg"
+  },
+  {
+    "key": "inline.AurosHomePage.AR.41",
+    "value": "نحن نتكفّل بكل شيء.",
+    "group": "AurosHomePage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "نحن نتكفّل بكل شيء."
+  },
+  {
+    "key": "inline.AurosHomePage.AR.42",
+    "value": "عليك فقط أن تبدأ.",
+    "group": "AurosHomePage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "عليك فقط أن تبدأ."
+  },
+  {
+    "key": "inline.AurosHomePage.EN.43",
+    "value": "We take care of everything.",
+    "group": "AurosHomePage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "We take care of everything."
+  },
+  {
+    "key": "inline.AurosHomePage.EN.44",
+    "value": "You take the first step.",
+    "group": "AurosHomePage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "You take the first step."
+  },
+  {
+    "key": "inline.AurosHomePage.AR.45",
+    "value": "فكرتك القادمة تبدأ بمحادثة.",
+    "group": "AurosHomePage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "فكرتك القادمة تبدأ بمحادثة."
+  },
+  {
+    "key": "inline.AurosHomePage.EN.46",
+    "value": "Your next idea begins with a conversation.",
+    "group": "AurosHomePage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Your next idea begins with a conversation."
+  },
+  {
+    "key": "inline.AboutPage.AR.1",
+    "value": "رؤيتنا ورسالتنا",
+    "group": "AboutPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "رؤيتنا ورسالتنا"
+  },
+  {
+    "key": "inline.AboutPage.EN.2",
+    "value": "Our vision & mission",
+    "group": "AboutPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Our vision & mission"
+  },
+  {
+    "key": "inline.AboutPage.AR.3",
+    "value": "ما الذي يوجّهنا",
+    "group": "AboutPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "ما الذي يوجّهنا"
+  },
+  {
+    "key": "inline.AboutPage.EN.4",
+    "value": "What guides us",
+    "group": "AboutPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "What guides us"
+  },
+  {
+    "key": "inline.AboutPage.EN.5",
+    "value": "MB",
+    "group": "AboutPage",
+    "locale": "shared",
+    "kind": "text",
+    "label": "MB"
+  },
+  {
+    "key": "inline.AboutPage.AR.6",
+    "value": "خطوات التعاون",
+    "group": "AboutPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "خطوات التعاون"
+  },
+  {
+    "key": "inline.AboutPage.EN.7",
+    "value": "Our collaboration process",
+    "group": "AboutPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Our collaboration process"
+  },
+  {
+    "key": "inline.AboutPage.AR.8",
+    "value": "نفهم فكرتك",
+    "group": "AboutPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "نفهم فكرتك"
+  },
+  {
+    "key": "inline.AboutPage.AR.9",
+    "value": "نحدّد الأولويات",
+    "group": "AboutPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "نحدّد الأولويات"
+  },
+  {
+    "key": "inline.AboutPage.AR.10",
+    "value": "نرسم خطة التنفيذ",
+    "group": "AboutPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "نرسم خطة التنفيذ"
+  },
+  {
+    "key": "inline.AboutPage.EN.11",
+    "value": "Understand your idea",
+    "group": "AboutPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Understand your idea"
+  },
+  {
+    "key": "inline.AboutPage.EN.12",
+    "value": "Define priorities",
+    "group": "AboutPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Define priorities"
+  },
+  {
+    "key": "inline.AboutPage.EN.13",
+    "value": "Plan the implementation",
+    "group": "AboutPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Plan the implementation"
+  },
+  {
+    "key": "inline.AboutPage.AR.14",
+    "value": "في كل تفصيل",
+    "group": "AboutPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "في كل تفصيل"
+  },
+  {
+    "key": "inline.AboutPage.EN.15",
+    "value": "In every detail",
+    "group": "AboutPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "In every detail"
+  },
+  {
+    "key": "inline.SubscriptionsPage.AR.1",
+    "value": "موقع تعريفي أو متجر إلكتروني",
+    "group": "SubscriptionsPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "موقع تعريفي أو متجر إلكتروني"
+  },
+  {
+    "key": "inline.SubscriptionsPage.AR.2",
+    "value": "تصميم متجاوب للموبايل والحاسوب",
+    "group": "SubscriptionsPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "تصميم متجاوب للموبايل والحاسوب"
+  },
+  {
+    "key": "inline.SubscriptionsPage.AR.3",
+    "value": "تكاملات الدفع بحسب نطاق المشروع",
+    "group": "SubscriptionsPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "تكاملات الدفع بحسب نطاق المشروع"
+  },
+  {
+    "key": "inline.SubscriptionsPage.AR.4",
+    "value": "تجربة استخدام مصمّمة لخدماتك",
+    "group": "SubscriptionsPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "تجربة استخدام مصمّمة لخدماتك"
+  },
+  {
+    "key": "inline.SubscriptionsPage.AR.5",
+    "value": "ربط التطبيق بأنظمتك",
+    "group": "SubscriptionsPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "ربط التطبيق بأنظمتك"
+  },
+  {
+    "key": "inline.SubscriptionsPage.AR.6",
+    "value": "اختبار وتجهيز للإطلاق",
+    "group": "SubscriptionsPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "اختبار وتجهيز للإطلاق"
+  },
+  {
+    "key": "inline.SubscriptionsPage.AR.7",
+    "value": "أنظمة مخصصة لاحتياجات العمل",
+    "group": "SubscriptionsPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "أنظمة مخصصة لاحتياجات العمل"
+  },
+  {
+    "key": "inline.SubscriptionsPage.AR.8",
+    "value": "ربط الأدوات والخدمات",
+    "group": "SubscriptionsPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "ربط الأدوات والخدمات"
+  },
+  {
+    "key": "inline.SubscriptionsPage.AR.9",
+    "value": "أتمتة العمليات المتكررة",
+    "group": "SubscriptionsPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "أتمتة العمليات المتكررة"
+  },
+  {
+    "key": "inline.SubscriptionsPage.AR.10",
+    "value": "دراسة الاستخدام المناسب لمشروعك",
+    "group": "SubscriptionsPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "دراسة الاستخدام المناسب لمشروعك"
+  },
+  {
+    "key": "inline.SubscriptionsPage.AR.11",
+    "value": "مساعدات ذكية وأتمتة",
+    "group": "SubscriptionsPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "مساعدات ذكية وأتمتة"
+  },
+  {
+    "key": "inline.SubscriptionsPage.AR.12",
+    "value": "دمج الحل مع أدوات العمل",
+    "group": "SubscriptionsPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "دمج الحل مع أدوات العمل"
+  },
+  {
+    "key": "inline.SubscriptionsPage.AR.13",
+    "value": "اختيار وتسجيل اسم الدومين",
+    "group": "SubscriptionsPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "اختيار وتسجيل اسم الدومين"
+  },
+  {
+    "key": "inline.SubscriptionsPage.AR.14",
+    "value": "ربط الدومين بالموقع",
+    "group": "SubscriptionsPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "ربط الدومين بالموقع"
+  },
+  {
+    "key": "inline.SubscriptionsPage.AR.15",
+    "value": "إدارة إعدادات النطاق",
+    "group": "SubscriptionsPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "إدارة إعدادات النطاق"
+  },
+  {
+    "key": "inline.SubscriptionsPage.EN.16",
+    "value": "Business websites and online stores",
+    "group": "SubscriptionsPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Business websites and online stores"
+  },
+  {
+    "key": "inline.SubscriptionsPage.EN.17",
+    "value": "Responsive mobile and desktop design",
+    "group": "SubscriptionsPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Responsive mobile and desktop design"
+  },
+  {
+    "key": "inline.SubscriptionsPage.EN.18",
+    "value": "Payment integrations within the agreed scope",
+    "group": "SubscriptionsPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Payment integrations within the agreed scope"
+  },
+  {
+    "key": "inline.SubscriptionsPage.EN.19",
+    "value": "An experience designed around your services",
+    "group": "SubscriptionsPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "An experience designed around your services"
+  },
+  {
+    "key": "inline.SubscriptionsPage.EN.20",
+    "value": "Connections to your existing systems",
+    "group": "SubscriptionsPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Connections to your existing systems"
+  },
+  {
+    "key": "inline.SubscriptionsPage.EN.21",
+    "value": "Testing and launch preparation",
+    "group": "SubscriptionsPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Testing and launch preparation"
+  },
+  {
+    "key": "inline.SubscriptionsPage.EN.22",
+    "value": "Systems tailored to your business",
+    "group": "SubscriptionsPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Systems tailored to your business"
+  },
+  {
+    "key": "inline.SubscriptionsPage.EN.23",
+    "value": "Tools and service integrations",
+    "group": "SubscriptionsPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Tools and service integrations"
+  },
+  {
+    "key": "inline.SubscriptionsPage.EN.24",
+    "value": "Automation of repetitive processes",
+    "group": "SubscriptionsPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Automation of repetitive processes"
+  },
+  {
+    "key": "inline.SubscriptionsPage.EN.25",
+    "value": "Defining the right use case for your project",
+    "group": "SubscriptionsPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Defining the right use case for your project"
+  },
+  {
+    "key": "inline.SubscriptionsPage.EN.26",
+    "value": "Intelligent assistants and automation",
+    "group": "SubscriptionsPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Intelligent assistants and automation"
+  },
+  {
+    "key": "inline.SubscriptionsPage.EN.27",
+    "value": "Integration with your business tools",
+    "group": "SubscriptionsPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Integration with your business tools"
+  },
+  {
+    "key": "inline.SubscriptionsPage.EN.28",
+    "value": "Domain selection and registration",
+    "group": "SubscriptionsPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Domain selection and registration"
+  },
+  {
+    "key": "inline.SubscriptionsPage.EN.29",
+    "value": "Connecting your domain to your website",
+    "group": "SubscriptionsPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Connecting your domain to your website"
+  },
+  {
+    "key": "inline.SubscriptionsPage.EN.30",
+    "value": "Domain configuration and management",
+    "group": "SubscriptionsPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Domain configuration and management"
+  },
+  {
+    "key": "inline.SubscriptionsPage.AR.31",
+    "value": "أطلق مشروعك\nبالحل المناسب.",
+    "group": "SubscriptionsPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "أطلق مشروعك\nبالحل المناسب."
+  },
+  {
+    "key": "inline.SubscriptionsPage.EN.32",
+    "value": "The right solution.\nA new beginning.",
+    "group": "SubscriptionsPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "The right solution.\nA new beginning."
+  },
+  {
+    "key": "inline.SubscriptionsPage.AR.33",
+    "value": "نحدّد معك احتياجات المشروع، ونحوّلها إلى حل رقمي واضح. من الفكرة الأولى إلى الإطلاق.",
+    "group": "SubscriptionsPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "نحدّد معك احتياجات المشروع، ونحوّلها إلى حل رقمي واضح. من الفكرة الأولى إلى الإطلاق."
+  },
+  {
+    "key": "inline.SubscriptionsPage.EN.34",
+    "value": "Together, we define what your project needs and turn it into a clear digital solution. From the first idea to launch.",
+    "group": "SubscriptionsPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Together, we define what your project needs and turn it into a clear digital solution. Fro"
+  },
+  {
+    "key": "inline.SubscriptionsPage.AR.35",
+    "value": "استكشف الاشتراكات",
+    "group": "SubscriptionsPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "استكشف الاشتراكات"
+  },
+  {
+    "key": "inline.SubscriptionsPage.EN.36",
+    "value": "Explore subscriptions",
+    "group": "SubscriptionsPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Explore subscriptions"
+  },
+  {
+    "key": "inline.SubscriptionsPage.AR.37",
+    "value": "اشتراكات",
+    "group": "SubscriptionsPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "اشتراكات"
+  },
+  {
+    "key": "inline.SubscriptionsPage.AR.38",
+    "value": "اطلب عرضاً مخصّصاً",
+    "group": "SubscriptionsPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "اطلب عرضاً مخصّصاً"
+  },
+  {
+    "key": "inline.SubscriptionsPage.EN.39",
+    "value": "Request a proposal",
+    "group": "SubscriptionsPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Request a proposal"
+  },
+  {
+    "key": "inline.SubscriptionsPage.AR.40",
+    "value": "تُحدَّد التكلفة والمدة ومراحل الدفع بحسب نطاق المشروع المتفق عليه.",
+    "group": "SubscriptionsPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "تُحدَّد التكلفة والمدة ومراحل الدفع بحسب نطاق المشروع المتفق عليه."
+  },
+  {
+    "key": "inline.SubscriptionsPage.EN.41",
+    "value": "Cost, timeline and payment milestones are defined by the agreed project scope.",
+    "group": "SubscriptionsPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Cost, timeline and payment milestones are defined by the agreed project scope."
+  },
+  {
+    "key": "inline.PortfolioPage.AR.1",
+    "value": "مواقع الأعمال",
+    "group": "PortfolioPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "مواقع الأعمال"
+  },
+  {
+    "key": "inline.PortfolioPage.AR.2",
+    "value": "حضور يعبّر عن نشاطك، ويقود الزائر إلى الخطوة المناسبة.",
+    "group": "PortfolioPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "حضور يعبّر عن نشاطك، ويقود الزائر إلى الخطوة المناسبة."
+  },
+  {
+    "key": "inline.PortfolioPage.AR.3",
+    "value": "هيكلة المحتوى / تصميم متجاوب / نموذج تواصل",
+    "group": "PortfolioPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "هيكلة المحتوى / تصميم متجاوب / نموذج تواصل"
+  },
+  {
+    "key": "inline.PortfolioPage.AR.4",
+    "value": "تطبيقات وحلول رقمية",
+    "group": "PortfolioPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "تطبيقات وحلول رقمية"
+  },
+  {
+    "key": "inline.PortfolioPage.AR.5",
+    "value": "واجهات تساعد المستخدم على إتمام مهمته بوضوح.",
+    "group": "PortfolioPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "واجهات تساعد المستخدم على إتمام مهمته بوضوح."
+  },
+  {
+    "key": "inline.PortfolioPage.AR.6",
+    "value": "تجربة المستخدم / واجهات التطبيق / تكامل الخدمات",
+    "group": "PortfolioPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "تجربة المستخدم / واجهات التطبيق / تكامل الخدمات"
+  },
+  {
+    "key": "inline.PortfolioPage.EN.7",
+    "value": "Business websites",
+    "group": "PortfolioPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Business websites"
+  },
+  {
+    "key": "inline.PortfolioPage.EN.8",
+    "value": "A presence that reflects your business and guides visitors to the next step.",
+    "group": "PortfolioPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "A presence that reflects your business and guides visitors to the next step."
+  },
+  {
+    "key": "inline.PortfolioPage.EN.9",
+    "value": "Content structure / Responsive design / Contact flow",
+    "group": "PortfolioPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Content structure / Responsive design / Contact flow"
+  },
+  {
+    "key": "inline.PortfolioPage.EN.10",
+    "value": "Apps & digital solutions",
+    "group": "PortfolioPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Apps & digital solutions"
+  },
+  {
+    "key": "inline.PortfolioPage.EN.11",
+    "value": "Interfaces that help people complete their tasks with clarity.",
+    "group": "PortfolioPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Interfaces that help people complete their tasks with clarity."
+  },
+  {
+    "key": "inline.PortfolioPage.EN.12",
+    "value": "User experience / App interfaces / Service integration",
+    "group": "PortfolioPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "User experience / App interfaces / Service integration"
+  },
+  {
+    "key": "inline.PortfolioPage.AR.13",
+    "value": "وراء كل واجهة،\nفكرة تستحق الوضوح.",
+    "group": "PortfolioPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "وراء كل واجهة،\nفكرة تستحق الوضوح."
+  },
+  {
+    "key": "inline.PortfolioPage.EN.14",
+    "value": "Behind every interface,\na clear idea.",
+    "group": "PortfolioPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Behind every interface,\na clear idea."
+  },
+  {
+    "key": "inline.PortfolioPage.AR.15",
+    "value": "التصميم يبدأ بما يحتاجه المستخدم. نستعرض هنا تفاصيل الواجهة والقرارات التي تشكّل تجربة استخدامها.",
+    "group": "PortfolioPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "التصميم يبدأ بما يحتاجه المستخدم. نستعرض هنا تفاصيل الواجهة والقرارات التي تشكّل تجربة است"
+  },
+  {
+    "key": "inline.PortfolioPage.EN.16",
+    "value": "Design starts with what people need. Explore the interface details and decisions that shape the experience.",
+    "group": "PortfolioPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Design starts with what people need. Explore the interface details and decisions that shap"
+  },
+  {
+    "key": "inline.PortfolioPage.AR.17",
+    "value": "شاهد التصميم",
+    "group": "PortfolioPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "شاهد التصميم"
+  },
+  {
+    "key": "inline.PortfolioPage.EN.18",
+    "value": "Explore the design",
+    "group": "PortfolioPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Explore the design"
+  },
+  {
+    "key": "inline.PortfolioPage.AR.19",
+    "value": "مجالات أخرى",
+    "group": "PortfolioPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "مجالات أخرى"
+  },
+  {
+    "key": "inline.PortfolioPage.EN.20",
+    "value": "Other capabilities",
+    "group": "PortfolioPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Other capabilities"
+  },
+  {
+    "key": "inline.PortfolioPage.AR.21",
+    "value": "نفس الاهتمام.\nتجارب مختلفة.",
+    "group": "PortfolioPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "نفس الاهتمام.\nتجارب مختلفة."
+  },
+  {
+    "key": "inline.PortfolioPage.EN.22",
+    "value": "The same care.\nDifferent experiences.",
+    "group": "PortfolioPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "The same care.\nDifferent experiences."
+  },
+  {
+    "key": "inline.PortfolioPage.AR.23",
+    "value": "لنبدأ بفكرة مشروعك.",
+    "group": "PortfolioPage",
+    "locale": "AR",
+    "kind": "text",
+    "label": "لنبدأ بفكرة مشروعك."
+  },
+  {
+    "key": "inline.PortfolioPage.EN.24",
+    "value": "Let’s start with your idea.",
+    "group": "PortfolioPage",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Let’s start with your idea."
+  },
+  {
+    "key": "inline.ContactPage.EN.1",
+    "value": "MACHOS BEY / CONTACT",
+    "group": "ContactPage",
+    "locale": "shared",
+    "kind": "text",
+    "label": "MACHOS BEY / CONTACT"
+  },
+  {
+    "key": "inline.ExploreServices.AR.1",
+    "value": "اكتشف إمكانياتك",
+    "group": "ExploreServices",
+    "locale": "AR",
+    "kind": "text",
+    "label": "اكتشف إمكانياتك"
+  },
+  {
+    "key": "inline.ExploreServices.EN.2",
+    "value": "Explore the possibilities",
+    "group": "ExploreServices",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Explore the possibilities"
+  },
+  {
+    "key": "inline.ExploreServices.AR.3",
+    "value": "حلول تفتح آفاقاً.",
+    "group": "ExploreServices",
+    "locale": "AR",
+    "kind": "text",
+    "label": "حلول تفتح آفاقاً."
+  },
+  {
+    "key": "inline.ExploreServices.EN.4",
+    "value": "Possibilities, unlocked.",
+    "group": "ExploreServices",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Possibilities, unlocked."
+  },
+  {
+    "key": "inline.ExploreServices.AR.5",
+    "value": "جميع الاشتراكات",
+    "group": "ExploreServices",
+    "locale": "AR",
+    "kind": "text",
+    "label": "جميع الاشتراكات"
+  },
+  {
+    "key": "inline.ExploreServices.EN.6",
+    "value": "All subscriptions",
+    "group": "ExploreServices",
+    "locale": "EN",
+    "kind": "text",
+    "label": "All subscriptions"
+  },
+  {
+    "key": "inline.LegalPage.EN.1",
+    "value": "MACHOS BEY / LEGAL",
+    "group": "LegalPage",
+    "locale": "shared",
+    "kind": "text",
+    "label": "MACHOS BEY / LEGAL"
+  },
+  {
+    "key": "inline.WorkFeature.EN.1",
+    "value": "FORM / 01 —",
+    "group": "WorkFeature",
+    "locale": "shared",
+    "kind": "text",
+    "label": "FORM / 01 —"
+  },
+  {
+    "key": "inline.WorkFeature.AR.2",
+    "value": "تصميم متجر إلكتروني",
+    "group": "WorkFeature",
+    "locale": "AR",
+    "kind": "text",
+    "label": "تصميم متجر إلكتروني"
+  },
+  {
+    "key": "inline.WorkFeature.EN.3",
+    "value": "E-commerce design",
+    "group": "WorkFeature",
+    "locale": "EN",
+    "kind": "text",
+    "label": "E-commerce design"
+  },
+  {
+    "key": "inline.WorkFeature.EN.4",
+    "value": "FORM / 01",
+    "group": "WorkFeature",
+    "locale": "shared",
+    "kind": "text",
+    "label": "FORM / 01"
+  },
+  {
+    "key": "inline.WorkFeature.AR.5",
+    "value": "أشياء بسيطة. تفاصيل مختلفة.",
+    "group": "WorkFeature",
+    "locale": "AR",
+    "kind": "text",
+    "label": "أشياء بسيطة. تفاصيل مختلفة."
+  },
+  {
+    "key": "inline.WorkFeature.EN.6",
+    "value": "Simple objects. Considered details.",
+    "group": "WorkFeature",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Simple objects. Considered details."
+  },
+  {
+    "key": "inline.WorkFeature.AR.7",
+    "value": "مجموعة الإضاءة",
+    "group": "WorkFeature",
+    "locale": "AR",
+    "kind": "text",
+    "label": "مجموعة الإضاءة"
+  },
+  {
+    "key": "inline.WorkFeature.EN.8",
+    "value": "THE LIGHT COLLECTION",
+    "group": "WorkFeature",
+    "locale": "EN",
+    "kind": "text",
+    "label": "THE LIGHT COLLECTION"
+  },
+  {
+    "key": "inline.WorkFeature.AR.9",
+    "value": "مساحة أهدأ.",
+    "group": "WorkFeature",
+    "locale": "AR",
+    "kind": "text",
+    "label": "مساحة أهدأ."
+  },
+  {
+    "key": "inline.WorkFeature.AR.10",
+    "value": "ضوء أجمل.",
+    "group": "WorkFeature",
+    "locale": "AR",
+    "kind": "text",
+    "label": "ضوء أجمل."
+  },
+  {
+    "key": "inline.WorkFeature.EN.11",
+    "value": "Less noise.",
+    "group": "WorkFeature",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Less noise."
+  },
+  {
+    "key": "inline.WorkFeature.EN.12",
+    "value": "More light.",
+    "group": "WorkFeature",
+    "locale": "EN",
+    "kind": "text",
+    "label": "More light."
+  },
+  {
+    "key": "inline.WorkFeature.AR.13",
+    "value": "استكشف المجموعة",
+    "group": "WorkFeature",
+    "locale": "AR",
+    "kind": "text",
+    "label": "استكشف المجموعة"
+  },
+  {
+    "key": "inline.WorkFeature.EN.14",
+    "value": "Explore the collection",
+    "group": "WorkFeature",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Explore the collection"
+  },
+  {
+    "key": "inline.WorkFeature.AR.15",
+    "value": "تصميم مدروس",
+    "group": "WorkFeature",
+    "locale": "AR",
+    "kind": "text",
+    "label": "تصميم مدروس"
+  },
+  {
+    "key": "inline.WorkFeature.EN.16",
+    "value": "Considered design",
+    "group": "WorkFeature",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Considered design"
+  },
+  {
+    "key": "inline.WorkFeature.AR.17",
+    "value": "تفاصيل تصنع الفرق",
+    "group": "WorkFeature",
+    "locale": "AR",
+    "kind": "text",
+    "label": "تفاصيل تصنع الفرق"
+  },
+  {
+    "key": "inline.WorkFeature.EN.18",
+    "value": "Details make the difference",
+    "group": "WorkFeature",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Details make the difference"
+  },
+  {
+    "key": "inline.WorkFeature.AR.19",
+    "value": "تصميم الواجهات",
+    "group": "WorkFeature",
+    "locale": "AR",
+    "kind": "text",
+    "label": "تصميم الواجهات"
+  },
+  {
+    "key": "inline.WorkFeature.EN.20",
+    "value": "Interface design",
+    "group": "WorkFeature",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Interface design"
+  },
+  {
+    "key": "inline.WorkFeature.AR.21",
+    "value": "تجربة المتجر",
+    "group": "WorkFeature",
+    "locale": "AR",
+    "kind": "text",
+    "label": "تجربة المتجر"
+  },
+  {
+    "key": "inline.WorkFeature.EN.22",
+    "value": "Store experience",
+    "group": "WorkFeature",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Store experience"
+  },
+  {
+    "key": "inline.WorkFeature.AR.23",
+    "value": "الفكرة وراء الواجهة",
+    "group": "WorkFeature",
+    "locale": "AR",
+    "kind": "text",
+    "label": "الفكرة وراء الواجهة"
+  },
+  {
+    "key": "inline.WorkFeature.EN.24",
+    "value": "Behind the interface",
+    "group": "WorkFeature",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Behind the interface"
+  },
+  {
+    "key": "inline.WorkFeature.AR.25",
+    "value": "المنتج أولاً.\nوالتفاصيل في مكانها.",
+    "group": "WorkFeature",
+    "locale": "AR",
+    "kind": "text",
+    "label": "المنتج أولاً.\nوالتفاصيل في مكانها."
+  },
+  {
+    "key": "inline.WorkFeature.EN.26",
+    "value": "Product first.\nEvery detail in place.",
+    "group": "WorkFeature",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Product first.\nEvery detail in place."
+  },
+  {
+    "key": "inline.WorkFeature.AR.27",
+    "value": "هوية هادئة لمتجر إضاءة، تترك مساحة للمنتج وتجعل طريق استكشافه واضحاً. ألوان محدودة، وتفاصيل محسوبة، ومحتوى يركّز على الاختيار.",
+    "group": "WorkFeature",
+    "locale": "AR",
+    "kind": "text",
+    "label": "هوية هادئة لمتجر إضاءة، تترك مساحة للمنتج وتجعل طريق استكشافه واضحاً. ألوان محدودة، وتفاصي"
+  },
+  {
+    "key": "inline.WorkFeature.EN.28",
+    "value": "A quiet visual identity for a lighting store, giving products room to stand out. A restrained palette, considered details, and content focused on choice.",
+    "group": "WorkFeature",
+    "locale": "EN",
+    "kind": "text",
+    "label": "A quiet visual identity for a lighting store, giving products room to stand out. A restrai"
+  },
+  {
+    "key": "inline.WorkFeature.AR.29",
+    "value": "الفكرة",
+    "group": "WorkFeature",
+    "locale": "AR",
+    "kind": "text",
+    "label": "الفكرة"
+  },
+  {
+    "key": "inline.WorkFeature.EN.30",
+    "value": "The idea",
+    "group": "WorkFeature",
+    "locale": "EN",
+    "kind": "text",
+    "label": "The idea"
+  },
+  {
+    "key": "inline.WorkFeature.AR.31",
+    "value": "عرض المنتج دون ازدحام الخيارات أو تشتيت الانتباه.",
+    "group": "WorkFeature",
+    "locale": "AR",
+    "kind": "text",
+    "label": "عرض المنتج دون ازدحام الخيارات أو تشتيت الانتباه."
+  },
+  {
+    "key": "inline.WorkFeature.EN.32",
+    "value": "Present the product without competing choices or distractions.",
+    "group": "WorkFeature",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Present the product without competing choices or distractions."
+  },
+  {
+    "key": "inline.WorkFeature.AR.33",
+    "value": "التصميم",
+    "group": "WorkFeature",
+    "locale": "AR",
+    "kind": "text",
+    "label": "التصميم"
+  },
+  {
+    "key": "inline.WorkFeature.EN.34",
+    "value": "The design",
+    "group": "WorkFeature",
+    "locale": "EN",
+    "kind": "text",
+    "label": "The design"
+  },
+  {
+    "key": "inline.WorkFeature.AR.35",
+    "value": "عنوان مختصر، منتج بارز، وتسلسل بصري يقود إلى المجموعة.",
+    "group": "WorkFeature",
+    "locale": "AR",
+    "kind": "text",
+    "label": "عنوان مختصر، منتج بارز، وتسلسل بصري يقود إلى المجموعة."
+  },
+  {
+    "key": "inline.WorkFeature.EN.36",
+    "value": "A concise headline, a prominent product, and a visual hierarchy leading to the collection.",
+    "group": "WorkFeature",
+    "locale": "EN",
+    "kind": "text",
+    "label": "A concise headline, a prominent product, and a visual hierarchy leading to the collection."
+  },
+  {
+    "key": "inline.WorkFeature.AR.37",
+    "value": "تفاصيل الواجهة",
+    "group": "WorkFeature",
+    "locale": "AR",
+    "kind": "text",
+    "label": "تفاصيل الواجهة"
+  },
+  {
+    "key": "inline.WorkFeature.EN.38",
+    "value": "Interface details",
+    "group": "WorkFeature",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Interface details"
+  },
+  {
+    "key": "inline.WorkFeature.AR.39",
+    "value": "إضاءة بلون سماوي، خلفية فاتحة، ومساحات تتكيّف مع حجم الشاشة مع الحفاظ على أولوية المنتج.",
+    "group": "WorkFeature",
+    "locale": "AR",
+    "kind": "text",
+    "label": "إضاءة بلون سماوي، خلفية فاتحة، ومساحات تتكيّف مع حجم الشاشة مع الحفاظ على أولوية المنتج."
+  },
+  {
+    "key": "inline.WorkFeature.EN.40",
+    "value": "Sky-blue lighting, a pale backdrop, and spacing that adapts to the screen while keeping the product in focus.",
+    "group": "WorkFeature",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Sky-blue lighting, a pale backdrop, and spacing that adapts to the screen while keeping th"
+  },
+  {
+    "key": "inline.WorkFeature.AR.41",
+    "value": "ناقش مشروعاً مشابهاً",
+    "group": "WorkFeature",
+    "locale": "AR",
+    "kind": "text",
+    "label": "ناقش مشروعاً مشابهاً"
+  },
+  {
+    "key": "inline.WorkFeature.AR.42",
+    "value": "شاهد تفاصيل التصميم",
+    "group": "WorkFeature",
+    "locale": "AR",
+    "kind": "text",
+    "label": "شاهد تفاصيل التصميم"
+  },
+  {
+    "key": "inline.WorkFeature.EN.43",
+    "value": "Discuss a similar project",
+    "group": "WorkFeature",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Discuss a similar project"
+  },
+  {
+    "key": "inline.WorkFeature.EN.44",
+    "value": "Explore the design",
+    "group": "WorkFeature",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Explore the design"
+  },
+  {
+    "key": "inline.ContactForm.EN.1",
+    "value": "Machos Bey — Project inquiry",
+    "group": "ContactForm",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Machos Bey — Project inquiry"
+  },
+  {
+    "key": "inline.ContactForm.AR.2",
+    "value": "تم تجهيز مسودة البريد. أكمل إرسالها من تطبيق البريد لديك.",
+    "group": "ContactForm",
+    "locale": "AR",
+    "kind": "text",
+    "label": "تم تجهيز مسودة البريد. أكمل إرسالها من تطبيق البريد لديك."
+  },
+  {
+    "key": "inline.ContactForm.EN.3",
+    "value": "Your email draft is ready. Complete sending it in your email app.",
+    "group": "ContactForm",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Your email draft is ready. Complete sending it in your email app."
+  },
+  {
+    "key": "inline.ContactForm.AR.4",
+    "value": "املأ التفاصيل لفتح مسودة في تطبيق البريد وإرسالها، أو راسلنا مباشرة: ",
+    "group": "ContactForm",
+    "locale": "AR",
+    "kind": "text",
+    "label": "املأ التفاصيل لفتح مسودة في تطبيق البريد وإرسالها، أو راسلنا مباشرة: "
+  },
+  {
+    "key": "inline.ContactForm.EN.5",
+    "value": "Fill in your details to open an email draft and send it, or email us directly: ",
+    "group": "ContactForm",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Fill in your details to open an email draft and send it, or email us directly: "
+  },
+  {
+    "key": "inline.ContactForm.AR.6",
+    "value": "افتح مسودة البريد",
+    "group": "ContactForm",
+    "locale": "AR",
+    "kind": "text",
+    "label": "افتح مسودة البريد"
+  },
+  {
+    "key": "inline.ContactForm.EN.7",
+    "value": "Open email draft",
+    "group": "ContactForm",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Open email draft"
+  },
+  {
+    "key": "inline.Navbar.AR.2",
+    "value": "انتقل إلى المحتوى",
+    "group": "Navbar",
+    "locale": "AR",
+    "kind": "text",
+    "label": "انتقل إلى المحتوى"
+  },
+  {
+    "key": "inline.Navbar.EN.3",
+    "value": "Skip to content",
+    "group": "Navbar",
+    "locale": "EN",
+    "kind": "text",
+    "label": "Skip to content"
+  },
+  {
+    "key": "media.logo",
+    "value": "/brand/machos-bey-mark.png",
+    "group": "Navbar",
+    "locale": "shared",
+    "kind": "image",
+    "label": "/brand/machos-bey-mark.png"
+  },
+  {
+    "key": "site.email",
+    "value": "info@machosbey.com",
+    "group": "identity",
+    "locale": "shared",
+    "kind": "email",
+    "label": "البريد الإلكتروني للتواصل"
+  },
+  {
+    "key": "site.phone",
+    "value": "+31 626100020",
+    "group": "identity",
+    "locale": "shared",
+    "kind": "text",
+    "label": "رقم الهاتف"
+  },
+  {
+    "key": "site.facebook",
+    "value": "https://www.facebook.com/machosbey",
+    "group": "identity",
+    "locale": "shared",
+    "kind": "url",
+    "label": "رابط Facebook"
+  },
+  {
+    "key": "site.instagram",
+    "value": "https://www.instagram.com/machosbey",
+    "group": "identity",
+    "locale": "shared",
+    "kind": "url",
+    "label": "رابط Instagram"
+  },
+  {
+    "key": "media.service.0",
+    "value": "",
+    "group": "services",
+    "locale": "shared",
+    "kind": "image",
+    "label": "media.service.0"
+  },
+  {
+    "key": "media.service.1",
+    "value": "",
+    "group": "services",
+    "locale": "shared",
+    "kind": "image",
+    "label": "media.service.1"
+  },
+  {
+    "key": "media.service.2",
+    "value": "",
+    "group": "services",
+    "locale": "shared",
+    "kind": "image",
+    "label": "media.service.2"
+  },
+  {
+    "key": "media.service.3",
+    "value": "",
+    "group": "services",
+    "locale": "shared",
+    "kind": "image",
+    "label": "media.service.3"
+  },
+  {
+    "key": "media.service.4",
+    "value": "",
+    "group": "services",
+    "locale": "shared",
+    "kind": "image",
+    "label": "media.service.4"
+  },
+  {
+    "key": "media.portfolio",
+    "value": "",
+    "group": "portfolio",
+    "locale": "shared",
+    "kind": "image",
+    "label": "media.portfolio"
+  },
+  {
+    "key": "seo.about.title",
+    "value": "من نحن — Machos Bey",
+    "group": "meta",
+    "locale": "AR",
+    "kind": "text",
+    "label": "عنوان محركات البحث — about"
+  },
+  {
+    "key": "seo.about.description",
+    "value": "فريق ماخوس بيه المتخصص في التكنولوجيا والذكاء الاصطناعي في أوروبا والشرق الأوسط.",
+    "group": "meta",
+    "locale": "AR",
+    "kind": "text",
+    "label": "وصف محركات البحث — about"
+  },
+  {
+    "key": "seo.contact.title",
+    "value": "تواصل معنا — Machos Bey",
+    "group": "meta",
+    "locale": "AR",
+    "kind": "text",
+    "label": "عنوان محركات البحث — contact"
+  },
+  {
+    "key": "seo.contact.description",
+    "value": "تواصل مع ماخوس بيه لتطوير المواقع والتطبيقات والحلول البرمجية والذكاء الاصطناعي.",
+    "group": "meta",
+    "locale": "AR",
+    "kind": "text",
+    "label": "وصف محركات البحث — contact"
+  },
+  {
+    "key": "seo.portfolio.title",
+    "value": "أعمال مميزة — ماخوس بيه",
+    "group": "meta",
+    "locale": "AR",
+    "kind": "text",
+    "label": "عنوان محركات البحث — portfolio"
+  },
+  {
+    "key": "seo.portfolio.description",
+    "value": "مواقع ويب ومتاجر إلكترونية وتطبيقات وحلول رقمية.",
+    "group": "meta",
+    "locale": "AR",
+    "kind": "text",
+    "label": "وصف محركات البحث — portfolio"
+  },
+  {
+    "key": "seo.subscriptions.title",
+    "value": "ابدأ مشروعك — ماخوس بيه",
+    "group": "meta",
+    "locale": "AR",
+    "kind": "text",
+    "label": "عنوان محركات البحث — subscriptions"
+  },
+  {
+    "key": "seo.subscriptions.description",
+    "value": "بناء مواقع وتطبيقات وحلول برمجية وذكاء اصطناعي وخدمات دومين.",
+    "group": "meta",
+    "locale": "AR",
+    "kind": "text",
+    "label": "وصف محركات البحث — subscriptions"
+  },
+  {
+    "key": "inline.AurosHomePage.EN.understand",
+    "value": "Understand",
+    "locale": "EN",
+    "group": "AurosHomePage",
+    "kind": "text",
+    "label": "Understand"
+  },
+  {
+    "key": "media.orb",
+    "value": "",
+    "group": "AurosHomePage",
+    "locale": "shared",
+    "kind": "image",
+    "label": "بديل الكرة المتحركة (اختياري)"
+  },
+  {
+    "key": "AR.contactPage.serviceOptions.0",
+    "value": "بناء موقع ويب",
+    "label": "خيار الخدمة 1",
+    "group": "contact",
+    "locale": "AR",
+    "kind": "text"
+  },
+  {
+    "key": "AR.contactPage.serviceOptions.1",
+    "value": "بناء تطبيق",
+    "label": "خيار الخدمة 2",
+    "group": "contact",
+    "locale": "AR",
+    "kind": "text"
+  },
+  {
+    "key": "AR.contactPage.serviceOptions.2",
+    "value": "حلول برمجية",
+    "label": "خيار الخدمة 3",
+    "group": "contact",
+    "locale": "AR",
+    "kind": "text"
+  },
+  {
+    "key": "AR.contactPage.serviceOptions.3",
+    "value": "ذكاء اصطناعي",
+    "label": "خيار الخدمة 4",
+    "group": "contact",
+    "locale": "AR",
+    "kind": "text"
+  },
+  {
+    "key": "AR.contactPage.serviceOptions.4",
+    "value": "خدمة دومين",
+    "label": "خيار الخدمة 5",
+    "group": "contact",
+    "locale": "AR",
+    "kind": "text"
+  },
+  {
+    "key": "AR.contactPage.serviceOptions.5",
+    "value": "أخرى",
+    "label": "خيار الخدمة 6",
+    "group": "contact",
+    "locale": "AR",
+    "kind": "text"
+  },
+  {
+    "key": "EN.contactPage.serviceOptions.0",
+    "value": "Website Development",
+    "label": "خيار الخدمة 1",
+    "group": "contact",
+    "locale": "EN",
+    "kind": "text"
+  },
+  {
+    "key": "EN.contactPage.serviceOptions.1",
+    "value": "App Development",
+    "label": "خيار الخدمة 2",
+    "group": "contact",
+    "locale": "EN",
+    "kind": "text"
+  },
+  {
+    "key": "EN.contactPage.serviceOptions.2",
+    "value": "Software Solutions",
+    "label": "خيار الخدمة 3",
+    "group": "contact",
+    "locale": "EN",
+    "kind": "text"
+  },
+  {
+    "key": "EN.contactPage.serviceOptions.3",
+    "value": "Artificial Intelligence",
+    "label": "خيار الخدمة 4",
+    "group": "contact",
+    "locale": "EN",
+    "kind": "text"
+  },
+  {
+    "key": "EN.contactPage.serviceOptions.4",
+    "value": "Domain Services",
+    "label": "خيار الخدمة 5",
+    "group": "contact",
+    "locale": "EN",
+    "kind": "text"
+  },
+  {
+    "key": "EN.contactPage.serviceOptions.5",
+    "value": "Other",
+    "label": "خيار الخدمة 6",
+    "group": "contact",
+    "locale": "EN",
+    "kind": "text"
+  }
+]

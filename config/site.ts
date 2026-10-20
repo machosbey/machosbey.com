@@ -1,0 +1,1 @@
+export const siteConfig = {name:'Machos Bey',email:'info@machosbey.com',phone:'+31 626100020',region:'Europe · Middle East',socials:[{label:'Facebook',href:'https://www.facebook.com/machosbey'},{label:'Instagram',href:'https://www.instagram.com/machosbey'}],locales:['AR','EN'] as const};

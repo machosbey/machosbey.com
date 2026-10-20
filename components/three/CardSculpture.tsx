@@ -1,0 +1,4 @@
+'use client';
+export type SculptureKind = 'layers' | 'workflow' | 'links' | 'target' | 'growth' | 'team';
+const paths:Record<SculptureKind,string>={layers:'m12 4 8 5-8 5-8-5 8-5Zm-8 9 8 5 8-5M4 17l8 5 8-5',workflow:'M4 4h6v6H4zM14 14h6v6h-6zM10 7h7v7M7 10v7h7',links:'m9 15 6-6M8 17H6a4 4 0 0 1-3-7l4-4a4 4 0 0 1 6 0m-2 12a4 4 0 0 0 6 0l4-4a4 4 0 0 0-3-7h-2',target:'M12 3a9 9 0 1 0 9 9M12 7a5 5 0 1 0 5 5m-5 0 9-9m-5 0h5v5',growth:'M4 20V10m7 10V6m7 14V3M3 4l4-1',team:'M9 9a3 3 0 1 0 0-6 3 3 0 0 0 0 6Zm8 1a3 3 0 1 0 0-6M3 20v-3a6 6 0 0 1 12 0v3m3-7a5 5 0 0 1 3 4v3'};
+export default function CardSculpture({kind='layers'}:{kind?:SculptureKind}){return <div className="cardSculptureSlot" aria-hidden="true"><svg className="cardSculpture studioIcon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.25" strokeLinecap="round" strokeLinejoin="round"><path d={paths[kind]}/></svg></div>}

@@ -1,0 +1,381 @@
+{
+  "meta": {
+    "siteTitle": "Machos Bey — Software & Digital Solutions",
+    "siteDescription": "Machos Bey is a technology company specialising in software, websites, applications, digital solutions and artificial intelligence."
+  },
+  "common": {
+    "mainNavigation": "Main navigation",
+    "languages": "Languages",
+    "menu": "Menu",
+    "navigation": "Navigation",
+    "social": "Social",
+    "legal": "Legal",
+    "region": "Middle East · Europe",
+    "learnMore": "Learn more",
+    "send": "Send",
+    "sending": "Sending...",
+    "success": "Your request has been received successfully.",
+    "error": "We could not send your request. Please try again.",
+    "required": "This field is required.",
+    "invalidEmail": "Enter a valid email address.",
+    "notConfigured": "Submissions are currently unavailable. Please contact us by email."
+  },
+  "nav": {
+    "home": "Home",
+    "business": "Business Setup",
+    "digital": "Digital Services",
+    "about": "About Us",
+    "careers": "Careers",
+    "contact": "Contact",
+    "cta": "Start Your Project",
+    "portfolio": "Featured Work",
+    "subscriptions": "Subscriptions"
+  },
+  "hero": {
+    "title1": "We Build Digital Solutions",
+    "title2": "That Bring Ideas to Life",
+    "description": "Websites, applications and intelligent solutions. Turning your ideas into connected digital experiences.",
+    "primary": "Start Your Project",
+    "secondary": "Explore Our Services",
+    "labels": [
+      "Web & Apps",
+      "Intelligent Solutions",
+      "An Integrated Experience"
+    ]
+  },
+  "services": {
+    "title": "Our Digital Services",
+    "intro": "From idea to launch, technology services designed around your project.",
+    "items": [
+      {
+        "title": "Web Development",
+        "description": "Fast, responsive websites and online stores designed around your business.",
+        "tags": [
+          "Design",
+          "Development"
+        ]
+      },
+      {
+        "title": "App Development",
+        "description": "Practical applications that bring your services to customers across devices.",
+        "tags": [
+          "Apps",
+          "UX"
+        ]
+      },
+      {
+        "title": "Software Solutions",
+        "description": "Custom systems, integrations and automation to simplify your operations.",
+        "tags": [
+          "Integration",
+          "Automation"
+        ]
+      },
+      {
+        "title": "Artificial Intelligence",
+        "description": "Intelligent solutions to automate tasks and make better use of your data.",
+        "tags": [
+          "Data",
+          "AI"
+        ]
+      },
+      {
+        "title": "Domain Services",
+        "description": "Support choosing, registering and connecting your domain and managing its settings.",
+        "tags": [
+          "Domain",
+          "Setup"
+        ]
+      }
+    ]
+  },
+  "work": {
+    "title": "Featured Work",
+    "intro": "Websites, online stores and digital solutions built with care, from user experience to payment integration and delivery.",
+    "items": [
+      {
+        "title": "Websites",
+        "tags": []
+      },
+      {
+        "title": "Online Stores",
+        "tags": []
+      },
+      {
+        "title": "Applications",
+        "tags": []
+      },
+      {
+        "title": "Payment Integrations",
+        "tags": []
+      },
+      {
+        "title": "Intelligent Solutions",
+        "tags": []
+      }
+    ]
+  },
+  "pillars": {
+    "title": "Our Core Pillars",
+    "advanced": {
+      "title": "Advanced Technology",
+      "text": "Using modern tools and technologies to build effective, scalable solutions."
+    },
+    "management": {
+      "title": "Integrated Software",
+      "text": "We connect systems and automate processes so your tools work together."
+    },
+    "why": {
+      "title": "Quality & Security",
+      "text": "We focus on stability, protection and precise delivery."
+    }
+  },
+  "cta": {
+    "title": "Ready to turn your idea into a real project?",
+    "text": "Tell us about your idea so we can define the right solution and next step.",
+    "button": "Start Your Project"
+  },
+  "footer": {
+    "tagline": "Machos Bey is a technology company specialising in software, websites, applications, digital solutions and artificial intelligence.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "rights": "All rights reserved"
+  },
+  "businessPage": {
+    "label": "Business Setup",
+    "heroTitle": "Your capital needs a vision...\nand we have the roadmap",
+    "heroText": "We help investors and entrepreneurs move from an idea to a clear, studied project through market analysis, planning, structuring and execution.",
+    "heroButton": "Start Your Investment Journey",
+    "helpTitle": "How do we help you set up your business?",
+    "helpIntro": "From the first idea to a clearer business model, we organize the key decisions before execution.",
+    "helpItems": [
+      {
+        "title": "Market & Opportunity Analysis",
+        "text": "Study the market, competitors, customers and available opportunities before making a decision."
+      },
+      {
+        "title": "Execution Steps",
+        "text": "Turn the idea into clear implementation stages with requirements and priorities."
+      },
+      {
+        "title": "Company Structuring",
+        "text": "Select and build the right administrative and operational structure for the project."
+      }
+    ],
+    "methodTitle": "Our Investment Consulting Method",
+    "methodIntro": "A practical path that connects analysis to execution rather than stopping at advice.",
+    "methodItems": [
+      {
+        "title": "Market & Opportunity Analysis",
+        "text": "Study feasibility, demand, competition and risks.",
+        "tags": [
+          "Feasibility",
+          "Demand",
+          "Risk"
+        ]
+      },
+      {
+        "title": "Execution Steps",
+        "text": "Create an actionable plan from the beginning through launch.",
+        "tags": [
+          "Plan",
+          "Priorities",
+          "Launch"
+        ]
+      },
+      {
+        "title": "Company Structuring",
+        "text": "Organize departments, responsibilities, workflows and future growth.",
+        "tags": [
+          "Departments",
+          "Roles",
+          "Workflow"
+        ]
+      },
+      {
+        "title": "Strategy Development",
+        "text": "Develop strategies that support direction and growth decisions.",
+        "tags": [
+          "Strategy",
+          "Growth"
+        ]
+      },
+      {
+        "title": "Operational Solutions",
+        "text": "Operational solutions that support organization and better execution.",
+        "tags": [
+          "Operations",
+          "Execution"
+        ]
+      },
+      {
+        "title": "Digital & Administrative Transformation",
+        "text": "Connect management and operations to efficient, scalable digital solutions.",
+        "tags": [
+          "Digital",
+          "Management",
+          "Integration"
+        ]
+      }
+    ],
+    "ctaTitle": "Start your investment journey with us today",
+    "ctaButton": "Contact Our Consultants"
+  },
+  "digitalPage": {
+    "label": "Digital Services",
+    "heroTitle": "We build your digital presence...\nto lead business growth",
+    "heroText": "Integrated digital solutions for companies across websites, applications and digital marketing.",
+    "heroButton": "Start Your Digital Project",
+    "servicesTitle": "Our Integrated Digital Services",
+    "servicesIntro": "Three connected tracks for a practical digital presence built to grow.",
+    "servicesItems": [
+      {
+        "title": "Website Development",
+        "text": "Professional, responsive and fast websites that reflect the business identity and serve its goals.",
+        "tags": [
+          "Web",
+          "UX/UI",
+          "Performance"
+        ]
+      },
+      {
+        "title": "Smart App Development",
+        "text": "Practical, tailored applications that help companies deliver services and reach customers.",
+        "tags": [
+          "Mobile",
+          "Product",
+          "Growth"
+        ]
+      },
+      {
+        "title": "Strategic Digital Marketing",
+        "text": "Digital marketing plans, stronger online presence and reach to the target audience.",
+        "tags": [
+          "Strategy",
+          "Presence",
+          "Audience"
+        ]
+      }
+    ],
+    "advantagesTitle": "Our Competitive Advantages",
+    "advantages": [
+      {
+        "title": "Advanced & Effective Technologies",
+        "text": "Use appropriate modern tools and technologies to build practical, scalable solutions."
+      },
+      {
+        "title": "Flexible Project Management",
+        "text": "Organize execution around project requirements and priorities."
+      },
+      {
+        "title": "Experience Building Integrated Solutions",
+        "text": "Connect websites or apps with digital presence and business needs in one experience."
+      }
+    ],
+    "ctaTitle": "Ready to build your digital presence?",
+    "ctaButton": "Start Your Digital Project"
+  },
+  "aboutPage": {
+    "label": "About Us",
+    "heroTitle": "Technology that understands your ambition\nSolutions that grow with you",
+    "heroText": "A specialised team with experience in technology and artificial intelligence, serving Europe and the Middle East with the ambition to reach the world.",
+    "primary": "Discover Our Story",
+    "secondary": "Talk to Our Experts",
+    "storyLabel": "Our Story",
+    "storyTitle": "From an idea to a usable digital product",
+    "storyText": "A specialised team with experience in technology and artificial intelligence, serving Europe and the Middle East with the ambition to reach the world.",
+    "visionMissionTitle": "Vision, Mission & Values",
+    "cards": [
+      {
+        "title": "Our Vision",
+        "text": "To become a trusted technology partner for businesses in Europe, the Middle East and worldwide."
+      },
+      {
+        "title": "Our Mission",
+        "text": "Turn ideas into websites, applications and intelligent solutions that support business growth."
+      },
+      {
+        "title": "Our Values",
+        "text": "Commitment, quality, transparency, innovation and long-term client relationships."
+      }
+    ],
+    "consultingLabel": "How We Work",
+    "consultingText": "We agree a clear scope, share delivery milestones and test performance and responsiveness before handover.",
+    "quote": "Understand the need. Build the solution. Support the launch.",
+    "principlesTitle": "Our Principles",
+    "principles": [
+      "Commitment",
+      "Quality",
+      "Transparency",
+      "Innovation"
+    ],
+    "ctaTitle": "Are you ready to launch?",
+    "ctaButton": "Talk to Our Experts Today"
+  },
+  "careersPage": {
+    "label": "Careers",
+    "heroTitle": "We build your digital presence...\nto lead business growth",
+    "heroText": "Join a work environment focused on learning, diversity and varied projects.",
+    "whyTitle": "Why join us?",
+    "benefits": [
+      {
+        "title": "Fast Professional Growth",
+        "text": "Continuous development opportunities in a dynamic, innovative work environment."
+      },
+      {
+        "title": "Diverse Team",
+        "text": "Work with experts from different specialties and cultures."
+      },
+      {
+        "title": "Varied Projects",
+        "text": "Participate in innovative projects across the Middle East and Europe."
+      }
+    ],
+    "applyTitle": "Apply Now",
+    "applyText": "Complete the form below and we will contact you soon.",
+    "fields": {
+      "name": "Full Name",
+      "email": "Email",
+      "experience": "Experience & Specialty",
+      "cv": "Upload CV (DOC/PDF)",
+      "bio": "Short Bio",
+      "submit": "Send Application"
+    },
+    "fileHint": "PDF, DOC or DOCX — max 8MB"
+  },
+  "contactPage": {
+    "label": "Contact",
+    "heroTitle": "We take care of everything. Your next step is just a click away.",
+    "heroText": "Contact Machos Bey and let’s discuss your project.",
+    "detailsTitle": "Contact Details",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location",
+    "formTitle": "Contact Form",
+    "formText": "Complete the form below and we will contact you as soon as possible.",
+    "fields": {
+      "name": "Client Name",
+      "company": "Company Name (optional)",
+      "address": "Company Address (optional)",
+      "email": "Email",
+      "phone": "Phone Number",
+      "service": "Service Type",
+      "details": "Request Details",
+      "submit": "Send Your Request"
+    },
+    "serviceOptions": [
+      "Website Development",
+      "App Development",
+      "Software Solutions",
+      "Artificial Intelligence",
+      "Domain Services",
+      "Other"
+    ]
+  },
+  "legalPage": {
+    "privacyTitle": "Privacy Policy",
+    "termsTitle": "Terms & Conditions",
+    "notice": "The content file specifies this page link but does not include approved legal text. Final legal content must be added before launch."
+  },
+  "brand": "Machos Bey"
+}

@@ -1,0 +1,7 @@
+.art{overflow:visible}
+.float{transform-origin:210px 210px;animation:drift 7s ease-in-out infinite}
+.body{opacity:.9}
+.shimmer{animation:glimmer 4s ease-in-out infinite alternate}
+@keyframes drift{0%,100%{transform:translateY(4px) rotate(-1deg)}50%{transform:translateY(-5px) rotate(1deg)}}
+@keyframes glimmer{from{opacity:.35}to{opacity:1}}
+@media(prefers-reduced-motion:reduce){.float,.shimmer{animation:none}}

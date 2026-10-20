@@ -1,0 +1,1 @@
+export default function ArrowIcon({down=false}:{down?:boolean}){return <svg className="uiArrow" width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true" focusable="false"><path d={down?'M12 4v16m-6-6 6 6 6-6':'M6 18 18 6M6 6h12v12'} stroke="currentColor" strokeWidth="1.7" strokeLinecap="round" strokeLinejoin="round"/></svg>}

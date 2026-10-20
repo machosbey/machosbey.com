@@ -1,0 +1,408 @@
+{
+  "meta": {
+    "siteTitle": "Machos Bey — Dijital ve Yatırım Çözümleri",
+    "siteDescription": "Fikirden uygulamaya iş büyümesini destekleyen dijital, yatırım ve danışmanlık çözümleri."
+  },
+  "common": {
+    "mainNavigation": "Ana navigasyon",
+    "languages": "Diller",
+    "menu": "Menü",
+    "navigation": "Navigasyon",
+    "social": "Sosyal",
+    "legal": "Yasal",
+    "region": "Orta Doğu · Avrupa",
+    "learnMore": "Daha fazla bilgi",
+    "send": "Gönder",
+    "sending": "Gönderiliyor...",
+    "success": "Talebiniz başarıyla alındı.",
+    "error": "Talebiniz gönderilemedi. Lütfen tekrar deneyin.",
+    "required": "Bu alan zorunludur.",
+    "invalidEmail": "Geçerli bir e-posta adresi girin.",
+    "notConfigured": "Form gönderimi şu anda kullanılamıyor. Lütfen e-posta ile iletişime geçin."
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "business": "İş Kurulumu",
+    "digital": "Dijital Hizmetler",
+    "about": "Hakkımızda",
+    "careers": "Kariyer",
+    "contact": "İletişim",
+    "cta": "Projenizi Başlatın"
+  },
+  "hero": {
+    "title1": "Dijital çözümler üretiyoruz...",
+    "title2": "geleceğin yatırımlarını inşa etmek için",
+    "description": "İleri teknolojiyi akıllı çözümlerle birleştirerek iş büyümesini destekleyen yatırım danışmanlığı ve dijital çözümler sunuyoruz.",
+    "primary": "Projenizi Başlatın",
+    "secondary": "Hizmetlerimizi Keşfedin",
+    "labels": [
+      "Başarılı Büyüme",
+      "Stratejik Ortaklıklar",
+      "Sürekli İnovasyon"
+    ]
+  },
+  "services": {
+    "title": "Hizmetlerimiz",
+    "intro": "Fikirden uygulamaya işletmelerin büyümesini destekleyen entegre dijital ve danışmanlık çözümleri.",
+    "items": [
+      {
+        "title": "Web Sitesi Geliştirme",
+        "description": "İşletmenin kimliğini yansıtan, hedeflerine hizmet eden profesyonel, hızlı ve uyumlu web siteleri.",
+        "tags": [
+          "Tasarım & UX",
+          "Geliştirme",
+          "Performans"
+        ]
+      },
+      {
+        "title": "Akıllı Uygulama Geliştirme",
+        "description": "Şirketlerin hizmet sunmasına ve müşterilerine ulaşmasına yardımcı olan pratik, özel uygulamalar.",
+        "tags": [
+          "Özel Uygulamalar",
+          "Kullanıcı Deneyimi",
+          "Büyüme"
+        ]
+      },
+      {
+        "title": "Stratejik Dijital Pazarlama",
+        "description": "Dijital pazarlama planları, çevrimiçi görünürlüğün geliştirilmesi ve hedef kitleye ulaşım.",
+        "tags": [
+          "Strateji",
+          "Dijital Varlık",
+          "Kitle"
+        ]
+      },
+      {
+        "title": "Pazar ve Fırsat Analizi",
+        "description": "Karar öncesinde pazarın, rakiplerin, müşterilerin ve mevcut fırsatların incelenmesi.",
+        "tags": [
+          "Pazar",
+          "Rekabet",
+          "Fırsat"
+        ]
+      },
+      {
+        "title": "Şirket Yapılandırması",
+        "description": "Projenin doğasına uygun idari ve operasyonel yapının seçilmesi ve kurulması.",
+        "tags": [
+          "Yapı",
+          "Operasyon",
+          "Büyüme"
+        ]
+      },
+      {
+        "title": "Dijital ve İdari Dönüşüm",
+        "description": "Daha verimli ve ölçeklenebilir işletmeler için dijital çözümleri yönetim ve operasyonlarla bağlamak.",
+        "tags": [
+          "Dijital",
+          "Yönetim",
+          "Entegrasyon"
+        ]
+      }
+    ]
+  },
+  "work": {
+    "title": "Dijital Çalışmalarımız",
+    "intro": "Web siteleri, uygulamalar ve müşteri hedeflerini destekleyen teknoloji çözümlerinde çalıştığımız alanlar.",
+    "items": [
+      {
+        "title": "Web Sitesi Geliştirme",
+        "tags": [
+          "Web",
+          "UX/UI"
+        ]
+      },
+      {
+        "title": "Uygulama Geliştirme",
+        "tags": [
+          "Mobile",
+          "Product"
+        ]
+      },
+      {
+        "title": "Teknoloji Çözümleri",
+        "tags": [
+          "Systems",
+          "Automation"
+        ]
+      },
+      {
+        "title": "Yatırım",
+        "tags": [
+          "Strategy",
+          "Market"
+        ]
+      },
+      {
+        "title": "Dijital Dönüşüm",
+        "tags": [
+          "Operations",
+          "Growth"
+        ]
+      }
+    ]
+  },
+  "pillars": {
+    "title": "Temel Dayanaklarımız",
+    "advanced": {
+      "title": "İleri Teknoloji",
+      "text": "Etkili ve ölçeklenebilir çözümler için modern araç ve teknolojiler kullanıyoruz."
+    },
+    "management": {
+      "title": "Yönetim Çözümleri",
+      "text": "Şirketlerin operasyonlarını ve karar süreçlerini geliştiren danışmanlık ve stratejiler."
+    },
+    "why": {
+      "title": "Neden Biz?",
+      "text": "Deneyim, teknoloji ve yatırım bakış açısını bir araya getiriyoruz."
+    }
+  },
+  "cta": {
+    "title": "Vizyonunuzu gerçeğe dönüştürmeye hazır mısınız?",
+    "text": "Daha iyi bir gelecek kurmanıza ve işiniz için yeni fırsatlar açmanıza yardımcı olalım.",
+    "button": "Ücretsiz Danışmanlık İsteyin"
+  },
+  "footer": {
+    "tagline": "Potansiyelinizi ortaya çıkarın",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Şartlar ve Koşullar",
+    "rights": "Tüm hakları saklıdır"
+  },
+  "businessPage": {
+    "label": "İş Kurulumu",
+    "heroTitle": "Sermayenizin bir vizyona ihtiyacı var...\nve yol haritası bizde",
+    "heroText": "Yatırımcıları ve girişimcileri pazar analizi, planlama, yapılandırma ve uygulama ile fikirden net ve incelenmiş bir projeye taşırız.",
+    "heroButton": "Yatırım Yolculuğunuza Başlayın",
+    "helpTitle": "İşinizi kurarken nasıl yardımcı oluyoruz?",
+    "helpIntro": "İlk fikirden daha net bir iş modeline kadar, uygulama öncesi temel kararları düzenleriz.",
+    "helpItems": [
+      {
+        "title": "Pazar ve Fırsat Analizi",
+        "text": "Karar vermeden önce pazar, rakipler, müşteriler ve fırsatları inceleriz."
+      },
+      {
+        "title": "Uygulama Adımları",
+        "text": "Fikri gereksinimler ve önceliklerle net uygulama aşamalarına dönüştürürüz."
+      },
+      {
+        "title": "Şirket Yapılandırması",
+        "text": "Projeye uygun idari ve operasyonel yapıyı seçer ve kurarız."
+      }
+    ],
+    "methodTitle": "Yatırım Danışmanlığı Metodumuz",
+    "methodIntro": "Yalnızca görüş sunmak yerine analizi uygulamayla bağlayan pratik bir yol.",
+    "methodItems": [
+      {
+        "title": "Pazar ve Fırsat Analizi",
+        "text": "Fizibilite, talep, rekabet ve risk analizi.",
+        "tags": [
+          "Fizibilite",
+          "Talep",
+          "Risk"
+        ]
+      },
+      {
+        "title": "Uygulama Adımları",
+        "text": "Başlangıçtan lansmana kadar uygulanabilir plan.",
+        "tags": [
+          "Plan",
+          "Öncelik",
+          "Lansman"
+        ]
+      },
+      {
+        "title": "Şirket Yapılandırması",
+        "text": "Bölümler, sorumluluklar, iş akışı ve gelecekteki büyümenin düzenlenmesi.",
+        "tags": [
+          "Bölümler",
+          "Roller",
+          "İş Akışı"
+        ]
+      },
+      {
+        "title": "Strateji Geliştirme",
+        "text": "Yön ve büyüme kararlarını destekleyen stratejiler.",
+        "tags": [
+          "Strateji",
+          "Büyüme"
+        ]
+      },
+      {
+        "title": "Operasyonel Çözümler",
+        "text": "Organizasyonu ve uygulamayı iyileştiren operasyonel çözümler.",
+        "tags": [
+          "Operasyon",
+          "Uygulama"
+        ]
+      },
+      {
+        "title": "Dijital ve İdari Dönüşüm",
+        "text": "Yönetim ve operasyonları verimli, ölçeklenebilir dijital çözümlerle bağlamak.",
+        "tags": [
+          "Dijital",
+          "Yönetim",
+          "Entegrasyon"
+        ]
+      }
+    ],
+    "ctaTitle": "Yatırım yolculuğunuza bugün bizimle başlayın",
+    "ctaButton": "Danışmanlarımızla İletişime Geçin"
+  },
+  "digitalPage": {
+    "label": "Dijital Hizmetler",
+    "heroTitle": "Dijital varlığınızı kuruyoruz...\niş büyümenize liderlik etmesi için",
+    "heroText": "Web siteleri, uygulamalar ve dijital pazarlamayı kapsayan entegre şirket çözümleri.",
+    "heroButton": "Dijital Projenizi Başlatın",
+    "servicesTitle": "Entegre Dijital Hizmetlerimiz",
+    "servicesIntro": "Büyümeye hazır pratik bir dijital varlık için birbirine bağlı üç alan.",
+    "servicesItems": [
+      {
+        "title": "Web Sitesi Geliştirme",
+        "text": "Profesyonel, uyumlu ve hızlı web siteleri.",
+        "tags": [
+          "Web",
+          "UX/UI",
+          "Performans"
+        ]
+      },
+      {
+        "title": "Akıllı Uygulama Geliştirme",
+        "text": "Şirketlerin hizmet sunmasına ve müşterilere ulaşmasına yardımcı olan özel uygulamalar.",
+        "tags": [
+          "Mobile",
+          "Product",
+          "Büyüme"
+        ]
+      },
+      {
+        "title": "Stratejik Dijital Pazarlama",
+        "text": "Dijital pazarlama planları, çevrimiçi varlık ve hedef kitleye ulaşım.",
+        "tags": [
+          "Strateji",
+          "Varlık",
+          "Kitle"
+        ]
+      }
+    ],
+    "advantagesTitle": "Rekabet Avantajlarımız",
+    "advantages": [
+      {
+        "title": "Gelişmiş ve Etkili Teknolojiler",
+        "text": "Pratik ve ölçeklenebilir çözümler için uygun modern araçlar."
+      },
+      {
+        "title": "Esnek Proje Yönetimi",
+        "text": "Uygulamayı proje gereksinimleri ve önceliklerine göre düzenlemek."
+      },
+      {
+        "title": "Entegre Çözümler Kurma Deneyimi",
+        "text": "Web veya uygulamayı dijital varlık ve iş ihtiyaçlarıyla tek deneyimde bağlamak."
+      }
+    ],
+    "ctaTitle": "Dijital varlığınızı oluşturmaya hazır mısınız?",
+    "ctaButton": "Dijital Projenizi Başlatın"
+  },
+  "aboutPage": {
+    "label": "Hakkımızda",
+    "heroTitle": "Girişimcilik bizi birleştirir...\nhedefimiz mükemmellik",
+    "heroText": "Stratejik başarının pazarı derinlemesine anlamak ve fikirleri büyüyebilir çözümlere ve işlere dönüştürmekle başladığına inanıyoruz.",
+    "primary": "Hikâyemizi Keşfedin",
+    "secondary": "Uzmanlarımızla Konuşun",
+    "storyLabel": "Hikâyemiz",
+    "storyTitle": "Fikirleri ve hedefleri uygulanabilir ve büyüyebilir işlere dönüştürüyoruz.",
+    "storyText": "Machos Bey; danışmanlık, yatırım ve dijital çözüm deneyimini projeyi anlayıp pratik adımlara dönüştüren bir yaklaşımla birleştirir.",
+    "visionMissionTitle": "Vizyon, Misyon ve Değerler",
+    "cards": [
+      {
+        "title": "Vizyonumuz",
+        "text": "Yatırımcılar ve şirketler için deneyim, inovasyon ve dijital çözümleri birleştiren sürdürülebilir işler kurmada güvenilir ortak olmak."
+      },
+      {
+        "title": "Misyonumuz",
+        "text": "Müşterilerin daha iyi kararlar almasına ve fikirlerini başarılı projelere dönüştürmesine yardımcı olan entegre danışmanlık ve çözümler sunmak."
+      },
+      {
+        "title": "Değerlerimiz",
+        "text": "Bağlılık, kalite, şeffaflık, inovasyon ve uzun vadeli müşteri ilişkileri."
+      }
+    ],
+    "consultingLabel": "Danışmanlık Yaklaşımımız",
+    "consultingText": "Danışmanlık yalnızca görüş vermek değildir; projeyi anlamayı ve uygulanabilir adımlar ve çözümler sunmayı amaçlar.",
+    "quote": "Sermayenizin bir vizyona ihtiyacı var; yol haritası bizde.",
+    "principlesTitle": "İlkelerimiz",
+    "principles": [
+      "Bağlılık",
+      "Kalite",
+      "Şeffaflık",
+      "İnovasyon"
+    ],
+    "ctaTitle": "Başlamaya hazır mısınız?",
+    "ctaButton": "Bugün Uzmanlarımızla Konuşun"
+  },
+  "careersPage": {
+    "label": "Kariyer",
+    "heroTitle": "Dijital varlığınızı kuruyoruz...\niş büyümenize liderlik etmesi için",
+    "heroText": "Öğrenme, çeşitlilik ve farklı projelere odaklanan bir çalışma ortamına katılın.",
+    "whyTitle": "Neden bize katılmalısınız?",
+    "benefits": [
+      {
+        "title": "Hızlı Profesyonel Gelişim",
+        "text": "Dinamik ve yenilikçi ortamda sürekli gelişim fırsatları."
+      },
+      {
+        "title": "Çeşitli Ekip",
+        "text": "Farklı uzmanlık ve kültürlerden profesyonellerle çalışma."
+      },
+      {
+        "title": "Çeşitli Projeler",
+        "text": "Orta Doğu ve Avrupa genelindeki yenilikçi projelerde yer alma."
+      }
+    ],
+    "applyTitle": "Şimdi Başvurun",
+    "applyText": "Aşağıdaki formu doldurun, yakında sizinle iletişime geçelim.",
+    "fields": {
+      "name": "Ad Soyad",
+      "email": "E-posta",
+      "experience": "Deneyim ve Uzmanlık",
+      "cv": "CV Yükle (DOC/PDF)",
+      "bio": "Kısa Tanıtım",
+      "submit": "Başvuruyu Gönder"
+    },
+    "fileHint": "PDF, DOC veya DOCX — en fazla 8MB"
+  },
+  "contactPage": {
+    "label": "İletişim",
+    "heroTitle": "Verimli bir\nkonuşma başlatalım.",
+    "heroText": "Machos Bey danışmanları yatırım ve dijital sorularınızı yanıtlamaya hazır.",
+    "detailsTitle": "İletişim Bilgileri",
+    "email": "E-posta",
+    "phone": "Telefon",
+    "location": "Konum",
+    "formTitle": "İletişim Formu",
+    "formText": "Aşağıdaki formu doldurun, en kısa sürede sizinle iletişime geçelim.",
+    "fields": {
+      "name": "Müşteri Adı",
+      "company": "Şirket Adı (isteğe bağlı)",
+      "address": "Şirket Adresi (isteğe bağlı)",
+      "email": "E-posta",
+      "phone": "Telefon Numarası",
+      "service": "Hizmet Türü",
+      "details": "Talep Detayları",
+      "submit": "Talebinizi Gönderin"
+    },
+    "serviceOptions": [
+      "İş Kurulumu",
+      "Web Sitesi Geliştirme",
+      "Akıllı Uygulama Geliştirme",
+      "Stratejik Dijital Pazarlama",
+      "Pazar ve Fırsat Analizi",
+      "Dijital ve İdari Dönüşüm",
+      "Diğer"
+    ]
+  },
+  "legalPage": {
+    "privacyTitle": "Gizlilik Politikası",
+    "termsTitle": "Şartlar ve Koşullar",
+    "notice": "İçerik dosyasında bu sayfanın bağlantısı vardır ancak onaylanmış yasal metin yoktur. Yayından önce nihai yasal içerik eklenmelidir."
+  }
+}

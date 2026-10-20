@@ -1,0 +1,158 @@
+/* Machos Bey — shared interface surfaces. Hero composition remains independent. */
+.site{--ui-paper:#f1f6f9;--ui-sky:#d9eef8;--ui-ink:#142b3d;--ui-muted:#506677;--ui-line:#b9ccd8;--ui-dark:#0c1722;--ui-radius:20px}
+.site .expressiveSection{background:var(--ui-paper)}
+.expressiveSection .proofGrid,.expressiveSection .valuesGrid,.expressiveSection .advantageGrid,.expressiveSection .benefitGrid{gap:0;background:#e3eff5;border:1px solid #bacfdb;border-radius:var(--ui-radius);overflow:hidden}
+.site .expressiveSection article{border:0;border-inline-end:1px solid #bacfdb;border-radius:0;background:transparent;padding:32px;min-height:360px;box-shadow:none}
+.site .expressiveSection article:last-child{border-inline-end:0}
+.site .expressiveSection article:after{display:none}
+.site .expressiveSection article>span{font-size:12px;color:#47728b;letter-spacing:.04em}
+.site .expressiveSection article h3{font-size:clamp(23px,2vw,30px);font-weight:500;color:var(--ui-ink)}
+.site .expressiveSection article p{font-size:14px;line-height:1.95;color:var(--ui-muted)}
+.site .expressiveSection .cardSculptureSlot{height:146px;min-height:146px;margin-bottom:18px}
+.site .expressiveSection .cardSculpture{height:130px;width:150px}
+.site .serviceCard,.site .storyServiceCard{border-radius:16px;background:#0c1722;border:1px solid #263d50;box-shadow:none;padding:24px}
+.site .serviceCard.is-active,.site .storyServiceCard.is-active{background:#15364d;border-color:#75bfdf;box-shadow:inset 0 3px #7dd6fa}
+.site .serviceCard__top,.site .storyServiceCard__top{color:#96bbcf}
+.site .serviceCard__body p,.site .storyServiceCard__body p{font-size:12px;line-height:1.9;color:#d0e0e9}
+.site .serviceCard__tags span,.site .storyServiceCard__tags span{font-size:9px;border-color:#7295ad60;color:#c8e6f6}
+.site .serviceCard:focus-visible,.site .storyServiceCard:focus-visible{outline-offset:-5px;outline:2px solid #b6e6ff}
+/* Subscription services read as a considered catalogue, not a pricing template. */
+.offeringGrid{display:block;border-top:1px solid var(--ui-line)}
+.offeringCard{display:grid;grid-template-columns:40px 130px minmax(150px,.8fr) minmax(200px,1fr) auto;align-items:center;gap:28px;border:0;border-bottom:1px solid var(--ui-line);border-radius:0;padding:28px 4px;background:transparent}
+.offeringCard>.sectionKicker{color:#52748a;font-size:12px}
+.offeringCard .cardSculptureSlot{height:112px;min-height:112px;width:130px}
+.offeringCard .cardSculpture{width:130px;height:110px;margin:0}
+.offeringCard h3{margin:0;font-size:23px;line-height:1.55}
+.offeringCard p{margin:0;font-size:14px;line-height:1.95;max-width:440px}
+.offeringCard .pill{white-space:normal;max-width:180px;text-align:center;justify-content:center}
+.offerNote{max-width:760px;padding-inline-start:20px;border-inline-start:2px solid #49a7d0;font-size:13px;margin-block:32px 0}
+/* Portfolio surfaces give the work room, with restrained captions. */
+.portfolioGrid{gap:30px}
+.portfolioCard{background:transparent;border:0;border-radius:0;overflow:visible}
+.portfolioMock{margin:0;border-radius:16px;aspect-ratio:1.15;border:1px solid #28475d;background:#0a1a28;box-shadow:0 16px 30px -24px #0b314c80}
+.portfolioCopy{padding:24px 2px;border-bottom:1px solid var(--ui-line)}
+.portfolioCopy .sectionKicker{font-size:10px;color:#50748b;letter-spacing:.04em}
+.portfolioCopy h3{margin-block:12px;font-size:26px}
+.portfolioCopy p{margin-bottom:22px;line-height:1.95}
+.mockChrome{padding:16px;background:#112739}
+.mockLayout{padding:clamp(22px,3vw,42px)}
+.mockTiles{gap:12px}.mockTiles i{height:80px}
+.deliveryRows{gap:48px;margin-top:64px;padding-block:32px;border-bottom:1px solid var(--ui-line)}
+.deliveryRows h3{font-size:23px}.deliveryRows p{max-width:500px}
+/* Contact: silver frame, white writing surfaces, clear focus. */
+.site .contactFormWrap{background:#f8fbfd;border:1px solid #bccfdc;border-radius:24px;padding:clamp(24px,4vw,50px);box-shadow:0 18px 55px -40px #193d5790}
+.site .contactFormHeading h2{font-size:clamp(28px,3vw,42px);margin-bottom:24px;letter-spacing:-.035em}
+.site .contactFormHeading p{font-size:14px;line-height:1.9;margin-bottom:32px}
+.site .formGrid{gap:24px 20px}
+.site .formGrid label>span{font-size:12px;line-height:1.6}
+.site .contactFormWrap .formGrid label>span{color:#365367}
+.site .contactFormWrap .formGrid input,.site .contactFormWrap .formGrid select,.site .contactFormWrap .formGrid textarea{background:#edf3f7;border:1px solid #c9d7e0;border-radius:9px;min-height:50px;padding:13px 15px;font-size:16px;color:#153247;transition:background .18s,border-color .18s,box-shadow .18s}
+.site .contactFormWrap .formGrid :is(input,select,textarea):focus{background:#fff;border-color:#2c8bbb;box-shadow:0 0 0 3px #50b9e522}
+.site .formGrid textarea{min-height:145px}
+.site .contactFormWrap select option{color:#153247;background:#fff}
+.site .formActions{padding-top:12px;gap:18px}.site .formStatus{font-size:13px}
+.site .contactDetailRow{padding-block:24px;gap:10px}.site .contactDetailRow span{font-size:11px;color:#537187}.site .contactDetailRow a,.site .contactDetailRow strong{font-size:16px;line-height:1.7}
+.site .formPanel{border-radius:20px;background:#0c1926;border-color:#2a4357}
+/* Calls to action: one architectural surface and the existing brand motif. */
+.site .ctaPanel,.site .pageCTA__panel{border-radius:24px;border:1px solid #355268;background:linear-gradient(110deg,#102434,#091520);box-shadow:none;padding:clamp(28px,5vw,70px);min-height:360px}
+.site .ctaPanel .aurora{opacity:.22}
+.site .ctaPanel h2,.site .pageCTA__panel h2{font-size:clamp(32px,3.6vw,58px);line-height:1.4;max-width:850px;letter-spacing:-.035em}
+.site .ctaPanel p,.site .pageCTA__panel p{font-size:14px;line-height:1.95}
+.site .pageCTA--light .pageCTA__panel{background:#e2eff6;border-color:#b9d0de}
+.site .pill{min-height:46px;padding:13px 22px;border-radius:10px;font-size:12px;line-height:1.5;transition:background .18s,color .18s,box-shadow .18s}
+.site .pill--blue{background:#87d9fc;color:#082b42;border:1px solid #6ac5ec;box-shadow:none}
+.site .pill--light{background:#eaf3f8;color:#122c40}
+.site .pill:focus-visible{outline:2px solid #219dcc;outline-offset:4px}
+.site .textLink{min-height:44px;align-items:center;font-size:12px}
+.site .previewFrame{border-radius:18px;background:#dcecf5;border:1px solid #afcbdc;padding:16px;box-shadow:0 22px 45px -35px #18446380}
+.site .previewVisual{border-radius:9px}.site .previewCaption{padding-inline:4px}
+.site .workRow{padding-block:14px;min-height:72px}.site .workRow strong{font-size:16px}
+.site .principleRow{padding-block:24px;border-color:#b9cdd9}.site .principleRow strong{font-size:clamp(22px,2.5vw,36px)}
+.site .lang{gap:2px;background:#d5eaff0b;border:1px solid #b5d8ee24;border-radius:8px;padding:3px}
+.site .lang button{min-width:34px;min-height:34px;border-radius:5px}.site .lang button.active{background:#b7e9ff19;color:#a6e3ff}
+@media(hover:hover){.site .pill--blue:hover{background:#b6eaff;box-shadow:0 4px 16px #3baade20}.site .pill--light:hover{background:#fff}.offeringCard:hover{background:#d6eaf433}.site .contactDetailRow a:hover{color:#187eae;text-decoration:underline;text-underline-offset:5px}}
+@media(max-width:1100px){
+ .offeringCard{grid-template-columns:30px 100px minmax(0,1fr) auto;gap:20px}.offeringCard h3{grid-column:3}.offeringCard p{grid-column:3;grid-row:2}.offeringCard>.pill{grid-column:4;grid-row:1/3}.offeringCard .cardSculptureSlot{grid-column:2;grid-row:1/3;width:100px}.offeringCard .cardSculpture{width:100px}
+ .site .mobileMenu{padding:24px;gap:0;background:#0b1722;border-color:#39536a}
+ .site .mobileMenu>a{padding:18px 0;border-bottom:1px solid #294052;font-size:23px;line-height:1.5}
+ .site .mobileMenu .lang{align-self:flex-start;margin-top:26px}.site .mobileMenu .lang button{min-width:52px;min-height:44px}
+}
+@media(max-width:768px){
+ .site .expressiveSection article{border-inline-end:0;border-bottom:1px solid #bacfdb;padding:28px;min-height:0}.site .expressiveSection article:last-child{border-bottom:0}
+ .site .expressiveSection article h3{font-size:26px}.site .expressiveSection article p{font-size:14px}
+ .site .serviceCard,.site .serviceCard.is-active,.site .storyServiceCard,.site .storyServiceCard.is-active{height:auto;min-height:340px;padding:24px}
+ .site .serviceCard__body h3,.site .serviceCard:not(.is-active) .serviceCard__body h3{font-size:23px}
+ .offeringCard{grid-template-columns:30px minmax(0,1fr) 100px;gap:16px;padding:26px 0}.offeringCard>.sectionKicker{grid-column:1;grid-row:1;align-self:start;padding-top:8px}.offeringCard h3{grid-column:2;grid-row:1;font-size:23px}.offeringCard .cardSculptureSlot{grid-column:3;grid-row:1/3;height:100px;min-height:100px}.offeringCard p{grid-column:1/3;grid-row:2}.offeringCard>.pill{grid-column:1/-1;grid-row:3;max-width:none;justify-self:start}
+ .portfolioGrid{gap:36px}.portfolioMock{aspect-ratio:1.35}.portfolioCopy{padding-top:20px}
+ .site .contactFormWrap{border-radius:18px}.site .contactFormHeading h2{font-size:30px}
+ .site .ctaPanel,.site .pageCTA__panel{min-height:330px;border-radius:18px}.site .ctaPanel h2,.site .pageCTA__panel h2{font-size:clamp(29px,7.5vw,40px)}
+ .site .workRow strong{font-size:14px}.site .workRow{min-height:70px}
+}
+@media(max-width:380px){.offeringCard{grid-template-columns:24px minmax(0,1fr) 78px;gap:12px}.offeringCard .cardSculptureSlot,.offeringCard .cardSculpture{width:78px}.offeringCard h3{font-size:21px}.site .contactFormWrap{padding:22px}.site .expressiveSection article{padding:24px}}
+@media(prefers-reduced-motion:reduce){.site .pill,.offeringCard,.site .formGrid input,.site .formGrid textarea,.site .formGrid select{transition:none}}
+/* Visual audit refinement: type, rhythm and containment only. */
+.site{--reading-copy:#b8c5d0;--reading-light:#445e71;--section-space:clamp(64px,7vw,104px)}
+.site .innerSection{padding-block:var(--section-space)}
+.site .innerHeading{align-items:end;column-gap:32px;margin-bottom:40px}
+.site .innerHeading h2,.site .proofHeader h2,.site .sectionTop h2{font-size:clamp(32px,3.6vw,52px);line-height:1.35;letter-spacing:-.025em;text-wrap:balance}
+.site .sectionKicker,.site .pageHero__eyebrow{font-size:11px;line-height:1.6;letter-spacing:.07em}
+.site .sectionTop p,.site .pageHero__support p,.site .storyStatement__copy p,.site .consultationGrid>p{font-size:15px;line-height:1.95;color:var(--reading-copy)}
+.site .lightSection .sectionTop p,.site .work .sectionTop p{color:var(--reading-light)}
+.site .pageHero h1{font-size:clamp(42px,4.6vw,70px);line-height:1.28;letter-spacing:-.035em;text-wrap:balance}
+.site[dir=rtl] .pageHero h1{line-height:1.4;letter-spacing:-.025em}
+.site .pageHero__support{max-width:590px;margin-top:28px}
+.site .pageHero__actions{gap:20px;flex-wrap:wrap;margin-top:24px}
+.site .storyStatement__copy h2,.site .consultationGrid h2{font-size:clamp(32px,3.5vw,50px);line-height:1.45;letter-spacing:-.025em;text-wrap:balance}
+.site .storyStatement__copy h2{margin-block:18px 22px}
+.site .consultationGrid{min-height:320px;column-gap:clamp(28px,5vw,72px)}
+.site .consultationGrid>*{min-width:0;max-width:100%}
+.site .expressiveSection article{min-height:330px;padding:30px}
+.site .expressiveSection article h3{line-height:1.5;margin-bottom:14px}
+.site .expressiveSection article p,.site .offeringCard p,.site .portfolioCopy p{font-size:15px;line-height:1.95}
+.site .offeringCard{column-gap:24px;padding-block:30px}
+.site .offeringCard h3{font-size:22px;line-height:1.55}
+.site .portfolioCopy{padding-bottom:6px}.site .portfolioCopy h3{font-size:25px;line-height:1.5}
+.site .portfolioMock{box-shadow:0 12px 24px -24px #153d55}
+.site .contactFormWrap{box-shadow:0 12px 35px -30px #193d5755;border-radius:16px}
+.site .contactFormHeading p{max-width:48ch}
+.site .formGrid label>span{font-size:13px}.site .formGrid{row-gap:22px}
+.site .pill{font-size:13px;font-weight:500;min-height:46px;padding-inline:22px}
+.site .textLink{line-height:1.7;font-size:13px}
+.site .footer__top p{font-size:13px;line-height:1.95;max-width:520px;color:#4b6478}
+.site .footer__top a{font-size:12px;line-height:1.8;color:#3d5a70}
+.site .footerCols>div>span{font-size:12px;color:#19394f;margin-bottom:10px}
+.site .footerCols a{min-height:30px;display:flex;align-items:center}
+.site .footer__bottom{font-size:11px;line-height:1.8;color:#526b7e}
+.site .footer__top{gap:clamp(32px,5vw,70px);padding-top:40px}
+.site .ctaPanel,.site .pageCTA__panel{border-radius:16px}
+.site .ctaPanel h2,.site .pageCTA__panel h2{font-size:clamp(30px,3.3vw,48px);line-height:1.45;text-wrap:balance}
+.site .ctaPanel p,.site .pageCTA__panel p{color:#b8c5d0}
+.site a:focus-visible,.site button:focus-visible{outline:2px solid #248db9;outline-offset:4px}
+.site .nav a:focus-visible,.site .darkSection a:focus-visible,.site .pageCTA a:focus-visible{outline-color:#9bdffc}
+.site .footer a:hover{color:#116f99;text-decoration:underline;text-underline-offset:4px}
+@media(max-width:1100px){.site .offeringCard{column-gap:18px}}
+@media(max-width:768px){
+ .site .innerSection{padding-block:64px}
+ .site .innerHeading{margin-bottom:30px;gap:12px}
+ .site .innerHeading h2,.site .proofHeader h2,.site .sectionTop h2{font-size:clamp(29px,8vw,38px);line-height:1.45}
+ .site .pageHero__grid,.site[dir=rtl] .pageHero__grid,.site .pageHero--statement .pageHero__grid{padding-top:64px;padding-bottom:36px;gap:30px;min-height:0}
+ .site .pageHero h1,.site .pageHero--statement h1{font-size:clamp(32px,8.8vw,44px);line-height:1.4}
+ .site .pageHero__visual{height:240px;max-width:100%}
+ .site .pageHero__support p,.site .storyStatement__copy p,.site .consultationGrid>p{font-size:14px;line-height:1.95}
+ .site .storyStatement__copy h2,.site .consultationGrid h2{font-size:clamp(29px,8vw,37px);line-height:1.5}
+ .site .consultationGrid,.site[dir=rtl] .consultationGrid{grid-template-columns:minmax(0,1fr);padding:36px 22px;min-height:0;gap:24px}
+ .site .consultationGrid>div,.site[dir=rtl] .consultationGrid>div{grid-column:1;grid-row:auto}
+ .site .storyStatement__visual{height:260px}
+ .site .expressiveSection article{min-height:0;padding:26px}
+ .site .offeringCard{padding-block:26px;column-gap:14px}
+ .site .offeringCard h3{font-size:22px}
+ .site .portfolioCopy h3{font-size:24px}
+ .site .contactGrid,.site[dir=rtl] .contactGrid{gap:36px}
+ .site .contactDetails h2{font-size:32px;line-height:1.4}
+ .site .contactFormWrap{padding:24px;border-radius:14px}
+ .site .ctaPanel,.site .pageCTA__panel{padding:30px 24px;min-height:300px}
+ .site .ctaPanel h2,.site .pageCTA__panel h2{font-size:clamp(28px,7.3vw,36px)}
+ .site .footer__top{gap:32px}.site .footerCols{gap:26px}
+ .site .footer__bottom{gap:14px}
+}
+@media(max-width:380px){.site .offeringCard{column-gap:12px}.site .offeringCard h3{font-size:20px}.site .contactFormWrap{padding:20px}}
