@@ -1,51 +1,130 @@
-# Final revision
+# Machos Bey — الموقع ولوحة إدارة المحتوى
 
-See `PRODUCTION_NOTES_AR.md` for verified changes, setup, and remaining launch configuration. Run `npm run build` then `npm start` for production.
+هذا المستودع يحتوي موقع Machos Bey بتصميمه الكحلي والسماوي، مع لوحة إدارة محتوى مدمجة على نفس التطبيق والنطاق. اللغتان المستخدمتان في الواجهة الحالية هما العربية والإنجليزية.
 
-# Machos Bey — Complete Website
+## الصفحات الحالية
 
-Production-oriented Next.js App Router website based on the approved Home direction and the supplied Creative 3D Agency reference video.
+| المسار | الوظيفة |
+| --- | --- |
+| `/` | الرئيسية |
+| `/about` | من نحن |
+| `/subscriptions` | الخدمات والاشتراكات |
+| `/portfolio` | الأعمال |
+| `/portfolio/[id]` | تفاصيل عمل من قائمة الأعمال المنشورة |
+| `/contact` | التواصل |
+| `/privacy` | الخصوصية |
+| `/terms` | الشروط |
+| `/admin` | تسجيل دخول المدير وإدارة المحتوى |
+| `/admin/preview` | معاينة المسودة، وتتطلب تسجيل الدخول |
 
-## Routes
+المساران القديمان `/business-setup` و`/digital-services` يعيدان التوجيه إلى `/subscriptions`، و`/careers` إلى `/about`. وجود ملفات قديمة أو ترجمات إضافية لا يعني أن صفحاتها أو لغاتها مفعلة في التنقل الحالي.
 
-- `/` — Home
-- `/business-setup` — تأسيس الأعمال
-- `/digital-services` — الخدمات الرقمية
-- `/about` — من نحن
-- `/careers` — الوظائف
-- `/contact` — تواصل معنا
-- `/privacy` — legal placeholder only; approved legal copy was not present in the source content
-- `/terms` — legal placeholder only; approved legal copy was not present in the source content
+## ما تديره لوحة التحكم
 
-## Stack
+- النصوص والعناوين المربوطة بحقول الإدارة، بالعربية والإنجليزية.
+- اسم الموقع والشعار والصور ومعلومات التواصل وروابط الشبكات الاجتماعية.
+- محتوى الرئيسية ومن نحن والخدمات والأعمال والصفحات القانونية وحقول محركات البحث المتاحة.
+- إضافة أعمال متعددة وتعديلها وحذفها وترتيبها، مع الاسم والصورة والوصف والتفاصيل ورابط خارجي اختياري.
+- حفظ مسودة ومعاينتها ثم نشرها، واسترجاع نسخة سابقة إلى المسودة من سجل النشر.
+- مكتبة الصور وتغيير كلمة مرور المدير.
 
-Next.js App Router, TypeScript, GSAP + ScrollTrigger, Lenis, Three.js / React Three Fiber.
+إدارة المحتوى لا تغيّر تخطيط الصفحات ولا تنشئ أقساماً حرة تلقائياً؛ تغيير التصميم أو إضافة نوع محتوى جديد يحتاج تعديل الكود. قبل حفظ قائمة الأعمال لأول مرة يبقى عرض العمل الافتراضي، وبعد نشر القائمة تُعرض الأعمال المتعددة بالتناوب على الشاشات الكبيرة.
 
-## Setup
+## التشغيل المحلي
 
-```bash
-npm ci
-cp .env.example .env.local
-npm run dev
-```
+المشروع يستخدم Next.js App Router وReact وTypeScript وMySQL، مع GSAP وLenis وThree.js للحركة. الإصدارات المعتمدة موجودة في `package.json` و`package-lock.json`.
 
-## Forms
+1. ثبّت Node.js المتوافق مع إصدار Next.js المعتمد؛ الاستضافة المستخدمة سابقاً كانت Node.js 22.x.
+2. شغّل `npm ci`.
+3. انسخ `.env.example` إلى `.env.local` وأدخل بيانات قاعدة MySQL مخصصة للتطوير، لا قاعدة الإنتاج.
+4. اضبط `NEXT_PUBLIC_SITE_URL` على عنوان التشغيل المحلي، مثل `http://localhost:3000`.
+5. شغّل `npm run dev`.
 
-The UI and server validation are implemented. For real delivery, set:
+فحص الأنواع: `npm run typecheck`.
+بناء الإنتاج: `npm run build`.
+تشغيل البناء: `npm start`.
 
-- `CONTACT_WEBHOOK_URL`
-- `CAREERS_WEBHOOK_URL`
+## الإعدادات والبيانات
 
-They can point to a CRM, automation endpoint, mail worker, or your backend. The Careers route accepts PDF/DOC/DOCX up to 8 MB.
+| المتغير | الاستخدام |
+| --- | --- |
+| `DB_HOST` | عنوان خادم MySQL |
+| `DB_PORT` | منفذ MySQL، الافتراضي 3306 |
+| `DB_NAME` | اسم قاعدة البيانات |
+| `DB_USER` | مستخدم قاعدة البيانات |
+| `DB_PASSWORD` | كلمة مرور قاعدة البيانات |
+| `NEXT_PUBLIC_SITE_URL` | عنوان التطبيق الرئيسي كاملاً |
+| `CMS_SETUP_TOKEN` | رمز سري مؤقت لإنشاء المدير الأول فقط |
+| `DB_SSL` | اختياري؛ القيمة `true` تفعّل اتصال قاعدة البيانات المشفر والتحقق من الشهادة |
+| `CONTACT_WEBHOOK_URL` | اختياري لتوصيل طلبات نموذج التواصل إلى خدمة استقبال |
 
-## Contact configuration
+في التهيئة الأولى، أنشئ رمزاً سرياً قوياً وضعه في `CMS_SETUP_TOKEN`، ثم افتح `/admin` وأنشئ حساب المدير. بعد نجاح التهيئة احذف المتغير من الاستضافة وأعد تشغيل التطبيق. إذا كان المدير موجوداً بالفعل، استخدم حسابه ولا تعِد التهيئة.
 
-The source content contains conflicting contact details and marks the phone number as incomplete. For that reason the phone is hidden unless you set `NEXT_PUBLIC_SITE_PHONE`.
+الجداول تُنشأ تلقائياً من `lib/cms/db.ts` باستخدام `CREATE TABLE IF NOT EXISTS`؛ المستخدم يحتاج الصلاحيات المناسبة. هذه الآلية ليست نظام ترحيل لتغييرات المخطط المستقبلية.
 
-## Languages
+المحتوى المنشور والمسودات وحساب المدير وسجل النشر والصور المرفوعة محفوظة في MySQL. الصور المرفوعة تُحوّل إلى WebP وتُقدّم عبر `/api/media/[id]`. نسخة GitHub أو ZIP لا تتضمن هذه البيانات؛ نقلها أو استعادتها يتطلب نسخة احتياطية منفصلة لقاعدة البيانات.
 
-AR / EN / TR / EL. The current implementation keeps language state in the browser and persists the selection in `localStorage`. Arabic uses RTL; the other languages use LTR.
+عند غياب إعداد توصيل نموذج التواصل، يجهز النموذج مسودة في تطبيق البريد لدى الزائر، ويجب على الزائر إرسالها بنفسه.
 
-## Reference fidelity
+لا ترفع `.env` أو `.env.local` أو كلمات المرور أو رموز التهيئة أو نسخ قاعدة البيانات إلى GitHub. القيم السرية توضع في متغيرات البيئة على الاستضافة.
 
-Home preserves the approved layout and motion direction. Internal pages use the second half of the reference video as the compositional source: large black editorial hero, manifesto/story statement, structured card grids, large horizontal value rows, and a wide final CTA with an abstract branded visual. No fake team, testimonials, clients, statistics, or project names were added.
+## النشر على Hostinger
+
+هذا تطبيق Node.js يعمل على الخادم مع MySQL، وليس موقعاً ثابتاً مناسباً لـ GitHub Pages.
+
+- جذر التطبيق هو المجلد الذي يحتوي `package.json`.
+- استخدم ملف القفل عند تثبيت الاعتماديات: `npm ci`.
+- أمر البناء: `npm run build`، وأمر التشغيل: `npm start`.
+- احتفظ بمتغيرات البيئة وقاعدة البيانات الحالية عند تحديث الكود.
+- قبل تغيير مصدر النشر، احفظ نسخة احتياطية من قاعدة البيانات وسجّل إعدادات التطبيق والنشر في مكان آمن.
+- تحديث المستودع لا يستلزم حذف الموقع أو قاعدة البيانات. إن كان النشر التلقائي مفعلاً فقد يؤدي دفع التعديلات إلى إعادة النشر؛ راجع إعدادات التطبيق الفعلية قبل تغييرها.
+- نجاح البناء لا يثبت اتصال قاعدة بيانات الإنتاج أو نجاح الحفظ والنشر؛ اختبرهما على الاستضافة.
+
+راجع [دليل تشغيل لوحة التحكم](CMS_SETUP_AR.md) لخطوات الاستخدام والاختبار. أسماء ZIP والإشارات إلى الجهاز المحلي والتواريخ في الأدلة القديمة تصف تسليمات سابقة؛ المرجع الحالي للتشغيل هو هذا الملف والكود.
+
+## دليل استلام المشروع للمبرمج
+
+### خريطة الكود
+
+| المكان | المسؤولية |
+| --- | --- |
+| `app/` | مسارات الصفحات والتخطيط العام وواجهات API |
+| `components/sections/AurosHomePage.tsx` | الرئيسية المستخدمة فعلياً من `app/page.tsx` |
+| `components/sections/` | أقسام الصفحات والخدمات ومعرض الأعمال وتفاصيلها |
+| `components/layout/` | شريط التنقل والتذييل |
+| `app/auros-blue.css` وبقية ملفات CSS المستوردة | هوية الموقع وتنسيقاته؛ راجع ترتيب الاستيراد قبل التعديل |
+| `components/admin/` | واجهة الإدارة ومحرر الأعمال |
+| `components/providers/ContentProvider.tsx` | ربط القيم الافتراضية بالمحتوى المحفوظ |
+| `components/providers/LocaleProvider.tsx` و`data/i18n.ts` | اللغة وقواميس الواجهة الحالية |
+| `data/cms/catalog.json` | تعريف حقول المحتوى المتاحة في الإدارة |
+| `lib/cms/field-labels.ts` | أسماء الحقول في لوحة التحكم |
+| `lib/cms/model.ts` و`lib/cms/projects.ts` | التحقق من المحتوى وقائمة الأعمال |
+| `lib/cms/db.ts` و`auth.ts` و`store.ts` | قاعدة البيانات والجلسات وقراءة المحتوى |
+| `app/api/admin/[action]/route.ts` | عمليات الإدارة والرفع والحفظ والنشر |
+| `public/` | ملفات الصور والخطوط المضمنة مع الكود |
+
+### عند تعديل المشروع
+
+1. تتبّع الصفحة من ملفها في `app/`؛ توجد مكونات قديمة غير مستخدمة مباشرة، فلا تعتمد على الاسم وحده.
+2. حافظ على مفاتيح المحتوى الحالية؛ تغيير المفتاح قد يفصل الحقل عن القيمة المخزنة في قاعدة البيانات.
+3. عند إضافة حقل، حدّث تعريفه وقيمه الافتراضية وتسميته وربطه بالواجهة والتحقق منه، وراجع اللغتين.
+4. اختبر على قاعدة تطوير منفصلة. لا تغيّر مخطط الإنتاج أو تحذف الجداول كطريقة لتحديث الموقع.
+5. شغّل فحص الأنواع وبناء الإنتاج، ثم راجع الواجهة على الهاتف واللابتوب باللغتين.
+6. اختبر الدخول والخروج، حفظ المسودة ومعاينتها ونشرها، رفع الصور، إضافة أكثر من عمل وترتيبها وفتح تفاصيلها، والتواصل.
+7. احتفظ بنسخة قاعدة بيانات وخطة رجوع قبل نشر تغييرات تمس البيانات أو المصادقة.
+
+### ما يجب تسليمه خارج المستودع
+
+- صلاحية الوصول إلى GitHub والاستضافة والدومين للأشخاص المعنيين.
+- إعدادات النشر والفرع المرتبط بالنشر التلقائي.
+- بيانات الوصول وقيم متغيرات البيئة عبر وسيلة آمنة، وليس داخل README.
+- نسخة احتياطية حديثة من قاعدة البيانات وطريقة استعادتها.
+- حساب لوحة التحكم، مع تغيير كلمة المرور عند انتقال المسؤولية.
+
+## وثائق إضافية
+
+- [تشغيل لوحة التحكم](CMS_SETUP_AR.md).
+- [مراجعة مطابقة الموقع المرجعي مع نسخة الإدارة](REFERENCE_CMS_REVIEW_AR.md).
+- [سجل التحديث الأمني السابق](SECURITY_UPDATE_AR.md).
+
+تقارير المراجعة والأمان توثق حالة وقت إعدادها؛ لا تُعد ضماناً دائماً لغياب الثغرات، ويجب مراجعة الاعتماديات دورياً.
